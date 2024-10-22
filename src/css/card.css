@@ -1,0 +1,109 @@
+.card {
+    position: fixed;
+    top: 50px;
+    width: 90%;
+    padding: 5px;
+    /* border: 1px solid #ccc; */
+    border-radius: 10px;
+    margin: 5px auto;
+    text-align: left;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+    background-color: rgba(25, 25, 25, 1);
+    display:grid;
+  }
+
+
+.card-book,
+.card-lesson {
+    font-size: 8px;
+}
+
+.card-text {
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+
+.audio-button {
+    position: fixed;
+    bottom: 100px;
+    right: 20px;
+    padding: 10px 15px;
+    font-size: 16px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.audio-button:hover {
+    background-color: #0056b3;
+}
+
+.switch-card-text {
+    position: fixed;
+    bottom: 100px;
+    right: 120px;
+    padding: 10px 15px;
+    font-size: 16px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.switch-card-text {
+    background-color: #0056b3;
+}
+
+/* .next-button {
+    position: fixed;
+    bottom: 100px;
+    right: 170px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    display: block;
+}
+
+.next-button:hover {
+    background-color: #218838;
+} */
+
+/* Add styles for swipe indicator (optional) */
+.swipe-indicator {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 14px;
+    color: #888;
+    z-index: 1000;
+  }
+
+/* review side */
+
+.review-result {
+/* padding: 0px; */
+margin: 0px;
+font-size: 14px;
+}
+.result-text4,.result-text5 {
+    font-size: 30px;
+      }
+
+      .result-text2 {
+        font-size: 16px;
+          }
+.result-text3 {
+font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+font-size: 12px;
+}

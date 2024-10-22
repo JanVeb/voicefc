@@ -1,0 +1,13 @@
+#record-button {
+    position: fixed;
+    bottom: 100px;
+    right: 70px;
+    padding: 10px 15px;
+    font-size: 16px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}

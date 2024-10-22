@@ -1,0 +1,107 @@
+
+  /* Ensure the header spans the entire width */
+#header {
+  position: fixed;
+  top: 0;
+  right: 0;
+  display: flex;                /* Use flexbox layout */
+  justify-content: space-between; /* Distribute space between items */
+  align-items: center;          /* Align items vertically centered */
+  padding: 10px;                /* Add padding for better spacing */
+}
+
+/* Style the card counters to be displayed inline */
+#card-counters {
+  position: fixed;
+  margin: 10 10px;               /* Spacing between the card elements */
+  left: 50px;
+  display: flex;  
+}
+
+#settings-button {
+  background-color: #007BFF; /* Button background color */
+  border: none;              /* Remove border */
+  font-size: 16px;           /* Font size for the icon */
+  cursor: pointer;           /* Pointer cursor on hover */
+  color: white;              /* Set icon and text color to white */
+  padding: 5px 10px;         /* Add some padding for a better look */
+}
+  
+  #settings-button:hover {
+    color: #000000;
+  }
+  
+ 
+/* Settings window */
+.settings {
+    position: fixed;
+    top: 0;
+    left: -60%; /* Hidden by default */
+    width: 60%;
+    height: 100%;
+    background-color: rgba(30, 30, 30, 0.95);
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.5);
+    z-index: 999;
+    transition: left 0.3s ease-in-out, visibility 0s 0.3s; /* Add transition */
+    visibility: hidden; /* Start as hidden */
+    border-right: 4px solid #007bff; /* Add a left border */
+  }
+  
+  /* When the settings window is open */
+  .settings.open {
+    left: 0;
+    visibility: visible;
+    transition: left 0.3s ease-in-out; /* Ensure smooth sliding */
+  }
+  
+  /* Hidden state (but not using display: none) */
+  .hidden {
+    left: -60%; /* Slide out */
+    visibility: hidden; /* Still hidden */
+  }
+  
+  
+  .settings-content {
+    padding: 20px;
+  }
+  
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: black;
+  }
+  
+  .upload-container {
+    display: flex;
+    align-items: center; /* Vertically centers the items */
+    gap: 10px; /* Adds space between the items */
+  }
+  
+  .upload-container p {
+    margin: 0; /* Remove default margin */
+  }
+  
+  .upload-container button {
+    background-color: #007BFF;
+  }
+  
+  .download-container {
+    display: flex;
+    align-items: center; /* Vertically centers the items */
+    gap: 10px; /* Adds space between the items */
+  }
+  
+  .download-container p {
+    margin: 0; /* Remove default margin */
+  }
+  
+  .download-container button {
+    background-color: #007BFF;
+  }

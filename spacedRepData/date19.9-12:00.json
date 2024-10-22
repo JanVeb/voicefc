@@ -1,0 +1,4042 @@
+{
+    "0": {
+        "interval": [
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726611731258,
+            1726614922471,
+            1726707796384,
+            1726879429845
+        ],
+        "text1": "test",
+        "text2": "",
+        "text3": "",
+        "text4": "",
+        "text5": "歡迎你來臺灣",
+        "audio": "",
+        "book": "",
+        "lesson": ""
+    },
+    "1": {
+        "interval": [
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726611318,
+            1726612417314,
+            1726690001452,
+            1726713959162,
+            1726879447346
+        ],
+        "text1": "請問你是陳月美小姐嗎？",
+        "text2": "Excuse me, are you Miss Chen Yuemei?",
+        "text3": "Qǐngwèn nǐ shì Chén Yuèměi xiǎojiě ma?",
+        "text4": "請問你是陳月美小姐嗎？",
+        "text5": "請問你是陳月美小姐嗎",
+        "audio": "1002明華：請問你是陳月美小姐嗎？.mp3",
+        "book": "1",
+        "lesson": "1"
+    },
+    "2": {
+        "interval": [
+            7,
+            38.111111111111114,
+            266.7777777777778,
+            1867.4444444444448
+        ],
+        "correctScore": [
+            1,
+            0.7777777777777778,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726612003,
+            1726612435751,
+            1726689414061.6667,
+            1726709350084.6667,
+            1726846984069.6667
+        ],
+        "text1": "是的。謝謝你來接我們。",
+        "text2": "Yes. Thank you for coming to pick us up.",
+        "text3": "Shìde. Xièxie nǐ lái jiē wǒmen.",
+        "text4": "是的。謝謝你來接我們。",
+        "text5": "是的謝謝你來接我們",
+        "audio": "1003月美：是的。謝謝你來接我們。.mp3",
+        "book": "1",
+        "lesson": "1"
+    },
+    "3": {
+        "interval": [
+            7,
+            18.375,
+            128.625,
+            900.375
+        ],
+        "correctScore": [
+            1,
+            0.375,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726612017,
+            1726612446610,
+            1726694390217,
+            1726702305085,
+            1726756575313
+        ],
+        "text1": "不客氣。我是李明華。",
+        "text2": "You're welcome. My name is Minghua Li.",
+        "text3": "Búkèqì. Wǒ shì Lǐ Mínghuá.",
+        "text4": "不客氣。我是李明華。",
+        "text5": "不客氣我是李明華",
+        "audio": "1004明華：不客氣。我是李明華。.mp3",
+        "book": "1",
+        "lesson": "1"
+    },
+    "4": {
+        "interval": [
+            7,
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            1,
+            0,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726612028,
+            1726612455616,
+            1726693716792,
+            1726696239360,
+            1726718392889,
+            1726879458610
+        ],
+        "text1": "這是王先生。",
+        "text2": "This is Mr. Wang.",
+        "text3": "Zhè shì Wáng Xiānshēng.",
+        "text4": "這是王先生。",
+        "text5": "這是王先生",
+        "audio": "1005月美：這是王先生。.mp3",
+        "book": "1",
+        "lesson": "1"
+    },
+    "5": {
+        "interval": [
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726612039,
+            1726612470260,
+            1726696251261,
+            1726718405389,
+            1726879469773
+        ],
+        "text1": "你好。我姓王，叫開文。",
+        "text2": "Hi, My surname is Wang. My first name is Kaiwen.",
+        "text3": "Nǐ hǎo. Wǒ Xìng Wáng, jiào Kāiwén.",
+        "text4": "你好。我姓王，叫開文。",
+        "text5": "你好我姓王叫開文",
+        "audio": "1006開文：你好。我姓王，叫開文。.mp3",
+        "book": "1",
+        "lesson": "1"
+    },
+    "6": {
+        "interval": [
+            7,
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            1,
+            0,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726612051,
+            1726612481897,
+            1726693744911,
+            1726696271594,
+            1726718416028,
+            1726879479605
+        ],
+        "text1": "你們好。歡迎你們來臺灣。",
+        "text2": "how are you. Welcome to Taiwan.",
+        "text3": "Nǐmen hǎo. Huānyíng nǐmen lái Táiwān.",
+        "text4": "你們好。歡迎你們來臺灣。",
+        "text5": "你們好歡迎你們來臺灣",
+        "audio": "1007明華：你們好。歡迎你們來臺灣。.mp3",
+        "book": "1",
+        "lesson": "1"
+    },
+    "7": {
+        "interval": [
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693383,
+            1726693811834,
+            1726696792351,
+            1726718444497,
+            1726879488929
+        ],
+        "text1": "請喝茶。",
+        "text2": "Please have some tea.",
+        "text3": "Qǐng hē chá.",
+        "text4": "請喝茶。",
+        "text5": "請喝茶",
+        "audio": "1008明華：請喝茶。.mp3",
+        "book": "1",
+        "lesson": "1"
+    },
+    "8": {
+        "interval": [
+            7,
+            49,
+            314.41666666666663,
+            2200.9166666666665
+        ],
+        "correctScore": [
+            1,
+            1,
+            0.9166666666666666,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693395,
+            1726693831434,
+            1726696808119,
+            1726716744208,
+            1726867290905
+        ],
+        "text1": "謝謝。很好喝。請問這是什麼茶？",
+        "text2": "Thank you. This tastes good. May I ask what kind of tea this is?",
+        "text3": "Xièxie. Hěn hǎohē. Qǐngwèn zhè shì shénme chá?",
+        "text4": "謝謝。很好喝。請問這是什麼茶？",
+        "text5": "謝謝很好喝請問這是什麼茶",
+        "audio": "1009開文：謝謝。很好喝。請問這是什麼茶？.mp3",
+        "book": "1",
+        "lesson": "1"
+    },
+    "9": {
+        "interval": [
+            7,
+            46.666666666666664,
+            311.1111111111111,
+            2074.074074074074
+        ],
+        "correctScore": [
+            0.9523809523809523,
+            0.9523809523809523,
+            0.9523809523809523,
+            0.9523809523809523
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693422,
+            1726693861830,
+            1726696688912,
+            1726716447616.6667,
+            1726859633282.4443
+        ],
+        "text1": "這是烏龍茶。臺灣人喜歡喝茶。開文，你們日本人呢？",
+        "text2": "This is Oolong Tea. Taiwanese like to drink tea. Kaiwen, how about you Japanese people?",
+        "text3": "Zhè shì Wūlóng chá. Táiwān rén xǐhuān hē chá. Kāiwén, nǐmen Rìběn rén ne?",
+        "text4": "這是烏龍茶。臺灣人喜歡喝茶。開文，你們日本人呢？",
+        "text5": "這是烏龍茶臺灣人很喜歡喝茶開文你們日本人呢",
+        "audio": "1010明華：這是烏龍茶。臺灣人喜歡喝茶。開文，你們日本人呢？.mp3",
+        "book": "1",
+        "lesson": "1"
+    },
+    "10": {
+        "interval": [
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693455,
+            1726693885376,
+            1726696840716,
+            1726718472160,
+            1726879496033
+        ],
+        "text1": "他不是日本人。",
+        "text2": "He is not Japanese.",
+        "text3": "Tā bú shì Rìběn rén.",
+        "text4": "他不是日本人。",
+        "text5": "他不是日本人",
+        "audio": "1011月美：他不是日本人。.mp3",
+        "book": "1",
+        "lesson": "1"
+    },
+    "11": {
+        "interval": [
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693467,
+            1726693895923,
+            1726696849492,
+            1726718485572,
+            1726879505314
+        ],
+        "text1": "對不起，你是哪國人？",
+        "text2": "I am sorry. Where are you from?",
+        "text3": "Duìbùqǐ, nǐ shì nǎ guó rén?",
+        "text4": "對不起，你是哪國人？",
+        "text5": "對不起你是哪國人",
+        "audio": "1012明華：對不起，你是哪國人？.mp3",
+        "book": "1",
+        "lesson": "1"
+    },
+    "12": {
+        "interval": [
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            0,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693478,
+            1726693905141,
+            1726696434561,
+            1726714079268,
+            1726879515630
+        ],
+        "text1": "我是美國人。",
+        "text2": "I am American.",
+        "text3": "Wǒ shì Měiguó rén.",
+        "text4": "我是美國人。",
+        "text5": "我是美國人",
+        "audio": "1013開文：我是美國人。.mp3",
+        "book": "1",
+        "lesson": "1"
+    },
+    "13": {
+        "interval": [
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693504,
+            1726693933104,
+            1726696913288,
+            1726718495403,
+            1726879529567
+        ],
+        "text1": "開文，你要不要喝咖啡？",
+        "text2": "Kaiwen, would you like to drink coffee?",
+        "text3": "Kāiwén, nǐ yào bú yào hē kāfēi?",
+        "text4": "開文，你要不要喝咖啡？",
+        "text5": "開文你要不要喝咖啡",
+        "audio": "1014明華：開文，你要不要喝咖啡？.mp3",
+        "book": "1",
+        "lesson": "1"
+    },
+    "14": {
+        "interval": [
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693516,
+            1726693947434,
+            1726696926091,
+            1726718506666,
+            1726879547506
+        ],
+        "text1": "謝謝！我不喝咖啡，我喜歡喝茶。",
+        "text2": "Thank you. I don't drink coffee. I like to drink tea.",
+        "text3": "Xièxie! Wǒ bù hē kāfēi, wǒ xǐhuān hē chá.",
+        "text4": "謝謝！我不喝咖啡，我喜歡喝茶。",
+        "text5": "謝謝我不喝咖啡我喜歡喝茶",
+        "audio": "1015開文：謝謝！我不喝咖啡，我喜歡喝茶。.mp3",
+        "book": "1",
+        "lesson": "1"
+    },
+    "15": {
+        "interval": [
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693531,
+            1726693958492,
+            1726696935003,
+            1726718695918,
+            1726879560065
+        ],
+        "text1": "我的家人",
+        "text2": "My Family",
+        "text3": "wǒde jiārén",
+        "text4": "我的家人",
+        "text5": "我的家人",
+        "audio": "1016我的家人.mp3",
+        "book": "1",
+        "lesson": "2"
+    },
+    "16": {
+        "interval": [
+            7,
+            32.666666666666664,
+            152.44444444444443,
+            711.4074074074074
+        ],
+        "correctScore": [
+            0.6666666666666666,
+            0.6666666666666666,
+            0.6666666666666666,
+            0.6666666666666666
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693541,
+            1726693968936,
+            1726695962677,
+            1726706707225.6667,
+            1726777108105.4443
+        ],
+        "text1": "這是我家。請進！",
+        "text2": "This is mine house. Please come in!",
+        "text3": "Zhè shì wǒ jiā. Qǐng jìn!",
+        "text4": "這是我家。請進！",
+        "text5": "這是我家親戚",
+        "audio": "1017怡君：這是我家。請進！.mp3",
+        "book": "1",
+        "lesson": "2"
+    },
+    "17": {
+        "interval": [
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693550,
+            1726693976933,
+            1726696962953,
+            1726718704397,
+            1726879572473
+        ],
+        "text1": "很漂亮的房子！",
+        "text2": "This is a pretty house.",
+        "text3": "Hěn piàoliàng de fángzi!",
+        "text4": "很漂亮的房子！",
+        "text5": "很漂亮的房子",
+        "audio": "1018安同：很漂亮的房子！.mp3",
+        "book": "1",
+        "lesson": "2"
+    },
+    "18": {
+        "interval": [
+            7,
+            42,
+            252,
+            1512
+        ],
+        "correctScore": [
+            0.8571428571428571,
+            0.8571428571428571,
+            0.8571428571428571,
+            0.8571428571428571
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693558,
+            1726693989928,
+            1726696551653,
+            1726712792600,
+            1726825564939
+        ],
+        "text1": "請坐！要不要喝茶？",
+        "text2": "Please have a seat. Would you like some tea?",
+        "text3": "Qǐng zuò! Yào bú yào hē chá?",
+        "text4": "請坐！要不要喝茶？",
+        "text5": "請問要不要喝茶",
+        "audio": "1019怡君：請坐！要不要喝茶？.mp3",
+        "book": "1",
+        "lesson": "2"
+    },
+    "19": {
+        "interval": [
+            7,
+            49,
+            311.8181818181818,
+            1984.2975206611568
+        ],
+        "correctScore": [
+            1,
+            1,
+            0.9090909090909091,
+            0.9090909090909091
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693579,
+            1726694010717,
+            1726697151277,
+            1726716858066.9092,
+            1726854277980.2397
+        ],
+        "text1": "好，謝謝你。你家有很多照片。",
+        "text2": "Yes, thank you. You have a lot of pictures in your house.",
+        "text3": "Hǎo, xièxie nǐ. Nǐ jiā yǒu hěn duō zhàopiàn.",
+        "text4": "好，謝謝你。你家有很多照片。",
+        "text5": "好謝謝你您家有很多照片",
+        "audio": "1020安同：好，謝謝你。你家有很多照片。.mp3",
+        "book": "1",
+        "lesson": "2"
+    },
+    "20": {
+        "interval": [
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            0.7777777777777778,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693594,
+            1726694022798,
+            1726697166013,
+            1726718740649,
+            1726879582925
+        ],
+        "text1": "我家人都很喜歡照相。",
+        "text2": "The people in my family like to take pictures.",
+        "text3": "Wǒ jiārén dōu hěn xǐhuān zhàoxiàng.",
+        "text4": "我家人都很喜歡照相。",
+        "text5": "我家人都很喜歡照相",
+        "audio": "1021怡君：我家人都很喜歡照相。.mp3",
+        "book": "1",
+        "lesson": "2"
+    },
+    "21": {
+        "interval": [
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693606,
+            1726694037954,
+            1726697197451,
+            1726718755456,
+            1726880231123
+        ],
+        "text1": "這張照片很好看。這是誰？你姐姐嗎？",
+        "text2": "This is a nice picture. Who is this? Your older sister?",
+        "text3": "Zhè zhāng zhàopiàn hěn hǎokàn. Zhè shì shéi? Nǐ jiějie ma?",
+        "text4": "這張照片很好看。這是誰？你姐姐嗎？",
+        "text5": "這張照片很好看這是誰你姐姐嗎",
+        "audio": "1022安同：這張照片很好看。這是誰？你姐姐嗎？.mp3",
+        "book": "1",
+        "lesson": "2"
+    },
+    "22": {
+        "interval": [
+            7,
+            49,
+            316.61538461538464,
+            2216.3076923076924
+        ],
+        "correctScore": [
+            1,
+            1,
+            0.9230769230769231,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693620,
+            1726694050446,
+            1726697210048,
+            1726717190034.077,
+            1726868230949.5386
+        ],
+        "text1": "不是，是我妹妹。這是我爸爸、媽媽。",
+        "text2": "No, that is my younger sister. Those are my dad and mom.",
+        "text3": "Bú shì, shì wǒ mèimei. Zhè shì wǒ bàba, māma.",
+        "text4": "不是，是我妹妹。這是我爸爸、媽媽。",
+        "text5": "不是是我妹妹這是我爸爸媽媽",
+        "audio": "1023怡君：不是，是我妹妹。這是我爸爸、媽媽。.mp3",
+        "book": "1",
+        "lesson": "2"
+    },
+    "23": {
+        "interval": [
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693633,
+            1726694063361,
+            1726697221099,
+            1726718782535,
+            1726880746387
+        ],
+        "text1": "你家人都很好看。",
+        "text2": "The people in your family are very good-looking.",
+        "text3": "Nǐ jiārén dōu hěn hǎokàn.",
+        "text4": "你家人都很好看。",
+        "text5": "你家人都很好看",
+        "audio": "1024安同：你家人都很好看。.mp3",
+        "book": "1",
+        "lesson": "2"
+    },
+    "24": {
+        "interval": [
+            7,
+            24.5,
+            128.625,
+            675.28125
+        ],
+        "correctScore": [
+            1,
+            0.5,
+            0.75,
+            0.75
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693647,
+            1726694076766,
+            1726695759907,
+            1726704495942,
+            1726774892513
+        ],
+        "text1": "田中，歡迎！歡迎！請進。",
+        "text2": "Tianzhong, welcome, welcome. Please come in.",
+        "text3": "Tiánzhōng, huānyíng! Huānyíng! Qǐng jìn.",
+        "text4": "田中，歡迎！歡迎！請進。",
+        "text5": "簡兄歡迎歡迎請進",
+        "audio": "1025明華：田中，歡迎！歡迎！請進。.mp3",
+        "book": "1",
+        "lesson": "2"
+    },
+    "25": {
+        "interval": [
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693660,
+            1726694085776,
+            1726697236976,
+            1726718789908,
+            1726880753153
+        ],
+        "text1": "謝謝。",
+        "text2": "Thank you!",
+        "text3": "Xièxie.",
+        "text4": "謝謝。",
+        "text5": "謝謝",
+        "audio": "1026田中：謝謝。.mp3",
+        "book": "1",
+        "lesson": "2"
+    },
+    "26": {
+        "interval": [
+            7,
+            28,
+            140,
+            700
+        ],
+        "correctScore": [
+            1,
+            0.5714285714285714,
+            0.7142857142857143,
+            0.7142857142857143
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693667,
+            1726694094376,
+            1726695986701,
+            1726705920136,
+            1726776414544
+        ],
+        "text1": "田中，這是我媽媽。",
+        "text2": "Tianzhong, this is my mom.",
+        "text3": "Tiánzhōng, zhè shì wǒ māma.",
+        "text4": "田中，這是我媽媽。",
+        "text5": "這是我媽媽",
+        "audio": "1027明華：田中，這是我媽媽。.mp3",
+        "book": "1",
+        "lesson": "2"
+    },
+    "27": {
+        "interval": [
+            7,
+            7,
+            7,
+            24.5,
+            128.625,
+            7,
+            24.5,
+            85.75
+        ],
+        "correctScore": [
+            0.25,
+            0.25,
+            0.25,
+            0.5,
+            0.75,
+            0,
+            0.5,
+            0.5
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693676,
+            1726694103597,
+            1726694737669,
+            1726695180032,
+            1726696757395,
+            1726704513457,
+            1726734806794,
+            1726736305097,
+            1726741705222
+        ],
+        "text1": "伯母，您好。",
+        "text2": "Mrs. Li (literary 'Auntie'), how are you?",
+        "text3": "Bómǔ, nín hǎo.",
+        "text4": "伯母，您好。",
+        "text5": "保摩您好",
+        "audio": "1028田中：伯母，您好。.mp3",
+        "book": "1",
+        "lesson": "2"
+    },
+    "28": {
+        "interval": [
+            7,
+            49,
+            7,
+            45.9375,
+            321.5625,
+            1986.121323529412
+        ],
+        "correctScore": [
+            1,
+            1,
+            0,
+            0.9375,
+            1,
+            0.8823529411764706
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693685,
+            1726694119669,
+            1726697271279,
+            1726694757309,
+            1726697532367,
+            1726717030861,
+            1726854459396.4119
+        ],
+        "text1": "你好，你好。來！來！來！請坐。你叫什麼名字？",
+        "text2": "Hello. Come in. Come. Please have a seat. What's your name?",
+        "text3": "Nǐ hǎo, nǐ hǎo. Lái! Lái! Lái! Qǐng zuò. Nǐ jiào shénme míngzi?",
+        "text4": "你好，你好。來！來！來！請坐。你叫什麼名字？",
+        "text5": "你好你好你好來來來請坐你叫什麼名字",
+        "audio": "1029明華的媽媽：你好，你好。來！來！來！請坐。你叫什麼名字？.mp3",
+        "book": "1",
+        "lesson": "2"
+    },
+    "29": {
+        "interval": [
+            7,
+            31.18181818181818,
+            99.21487603305783,
+            631.3673929376407
+        ],
+        "correctScore": [
+            0.9090909090909091,
+            0.6363636363636364,
+            0.45454545454545453,
+            0.9090909090909091
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693704,
+            1726694135557,
+            1726696234443.0908,
+            1726703502514.562,
+            1726772185797.5762
+        ],
+        "text1": "我叫誠一。你們家有很多書。",
+        "text2": "My name is Chengyi. You have a lot of books.",
+        "text3": "Wǒ jiào Chéngyī. Nǐmen jiā yǒu hěn duō shū.",
+        "text4": "我叫誠一。你們家有很多書。",
+        "text5": "我叫陳一你們家有很多書",
+        "audio": "1030田中：我叫誠一。你們家有很多書。.mp3",
+        "book": "1",
+        "lesson": "2"
+    },
+    "30": {
+        "interval": [
+            7,
+            46.11764705882353,
+            322.8235294117647,
+            2126.8373702422145
+        ],
+        "correctScore": [
+            0.9411764705882353,
+            0.9411764705882353,
+            1,
+            0.9411764705882353
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693719,
+            1726694151822,
+            1726697186095.8235,
+            1726717128637.7646,
+            1726862922944.2146
+        ],
+        "text1": "都是我哥哥的書。他是老師，他很喜歡看書。",
+        "text2": "They are all mine brother's books. He is a teacher. He likes to read.",
+        "text3": "Dōu shì wǒ gēge de shū. Tā shì lǎoshī, tā hěn xǐhuān kànshū.",
+        "text4": "都是我哥哥的書。他是老師，他很喜歡看書。",
+        "text5": "這是我哥哥的書他是老師他很喜歡看書",
+        "audio": "1031明華：都是我哥哥的書。他是老師，他很喜歡看書。.mp3",
+        "book": "1",
+        "lesson": "2"
+    },
+    "31": {
+        "interval": [
+            7,
+            42.875,
+            262.609375,
+            1608.482421875
+        ],
+        "correctScore": [
+            0.625,
+            0.875,
+            0.875,
+            0.875
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693736,
+            1726694171272,
+            1726697049082,
+            1726713452521.5,
+            1726831432933.3125
+        ],
+        "text1": "誠一，你家有幾個人？你有沒有兄弟姐妹？",
+        "text2": "Chengyi, how many people are there in your family? Do you have any brother's or sisters?",
+        "text3": "Chéngyī, nǐ jiā yǒu jǐ ge rén? Nǐ yǒu méi yǒu xiōngdì jiěmèi?",
+        "text4": "誠一，你家有幾個人？你有沒有兄弟姐妹？",
+        "text5": "請問你家有幾個人你有沒有兄弟姐妹",
+        "audio": "1032明華的媽媽：誠一，你家有幾個人？你有沒有兄弟姐妹？.mp3",
+        "book": "1",
+        "lesson": "2"
+    },
+    "32": {
+        "interval": [
+            7,
+            36.75,
+            7,
+            40.833333333333336,
+            262.0138888888889,
+            1834.0972222222224
+        ],
+        "correctScore": [
+            1,
+            0.75,
+            0,
+            0.8333333333333334,
+            0.9166666666666666,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693754,
+            1726694183040,
+            1726696695009,
+            1726698028506,
+            1726700517767,
+            1726717672452.3333,
+            1726844923327.3333
+        ],
+        "text1": "我家有五個人，我有兩個妹妹。",
+        "text2": "There are five people in my family. I have two younger sisters.",
+        "text3": "Wǒ jiā yǒu wǔ ge rén, wǒ yǒu liǎng ge mèimei.",
+        "text4": "我家有五個人，我有兩個妹妹。",
+        "text5": "我家有五個人我有兩個妹妹",
+        "audio": "1033田中：我家有五個人，我有兩個妹妹。.mp3",
+        "book": "1",
+        "lesson": "2"
+    },
+    "33": {
+        "interval": [
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693766,
+            1726694194834,
+            1726697441605,
+            1726718797788,
+            1726880763304
+        ],
+        "text1": "週末做什麼？",
+        "text2": "What Are You Doing Over the Weekend?",
+        "text3": "zhōumò zuò shénme",
+        "text4": "週末做什麼？",
+        "text5": "週末做什麼",
+        "audio": "1034週末做什麼？.mp3",
+        "book": "1",
+        "lesson": "3"
+    },
+    "34": {
+        "interval": [
+            7,
+            43.55555555555555,
+            304.88888888888886,
+            1659.9506172839504
+        ],
+        "correctScore": [
+            1,
+            0.8888888888888888,
+            1,
+            0.7777777777777778
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693777,
+            1726694205895,
+            1726697125857.3333,
+            1726716001270.3333,
+            1726834745996.037
+        ],
+        "text1": "田中，你喜歡聽音樂嗎？",
+        "text2": "Tianzhong, do you like listening to music?",
+        "text3": "Tiánzhōng, nǐ xǐhuān tīng yīnyuè ma?",
+        "text4": "田中，你喜歡聽音樂嗎？",
+        "text5": "點鐘你喜歡聽音樂嗎",
+        "audio": "1035安同：田中，你喜歡聽音樂嗎？.mp3",
+        "book": "1",
+        "lesson": "3"
+    },
+    "35": {
+        "interval": [
+            7,
+            45.23076923076923,
+            292.2603550295858,
+            1461.301775147929
+        ],
+        "correctScore": [
+            0.8571428571428571,
+            0.9230769230769231,
+            0.9230769230769231,
+            0.7142857142857143
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693787,
+            1726694217264,
+            1726697239074.1538,
+            1726715254927.3018,
+            1726822717622.5088
+        ],
+        "text1": "我不喜歡聽音樂。我喜歡運動。",
+        "text2": "I don't like listening to music. I like to exercise.",
+        "text3": "Wǒ bù xǐhuān tīng yīnyuè. Wǒ xǐhuān yùndòng.",
+        "text4": "我不喜歡聽音樂。我喜歡運動。",
+        "text5": "我不喜歡聽音樂我不喜歡聽音樂",
+        "audio": "1036田中：我不喜歡聽音樂。我喜歡運動。.mp3",
+        "book": "1",
+        "lesson": "3"
+    },
+    "36": {
+        "interval": [
+            7,
+            49,
+            343,
+            7,
+            35
+        ],
+        "correctScore": [
+            0.2857142857142857,
+            1,
+            1,
+            0.25,
+            0.7142857142857143
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693800,
+            1726694228012,
+            1726697475470,
+            1726718807107,
+            1726737137023,
+            1726739308943
+        ],
+        "text1": "你喜歡打網球嗎？",
+        "text2": "Do you like to play tennis?",
+        "text3": "Nǐ xǐhuān dǎ wǎngqiú ma?",
+        "text4": "你喜歡打網球嗎？",
+        "text5": "喜歡搭網球嗎",
+        "audio": "1037安同：你喜歡打網球嗎？.mp3",
+        "book": "1",
+        "lesson": "3"
+    },
+    "37": {
+        "interval": [
+            7,
+            42,
+            252,
+            1008
+        ],
+        "correctScore": [
+            1,
+            0.8571428571428571,
+            0.8571428571428571,
+            0.5714285714285714
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693809,
+            1726694236416,
+            1726697063760,
+            1726712802128,
+            1726795342845
+        ],
+        "text1": "我不喜歡打網球。",
+        "text2": "I don't like to play tennis.",
+        "text3": "Wǒ bù xǐhuān dǎ wǎngqiú.",
+        "text4": "我不喜歡打網球。",
+        "text5": "我不喜歡大王朝",
+        "audio": "1038田中：我不喜歡打網球。.mp3",
+        "book": "1",
+        "lesson": "3"
+    },
+    "38": {
+        "interval": [
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693910,
+            1726694337987,
+            1726697492764,
+            1726718816003,
+            1726880896319
+        ],
+        "text1": "你喜歡做什麼？",
+        "text2": "What do you like to do?",
+        "text3": "Nǐ xǐhuān zuò shénme?",
+        "text4": "你喜歡做什麼？",
+        "text5": "你喜歡做什麼",
+        "audio": "1039安同：你喜歡做什麼？.mp3",
+        "book": "1",
+        "lesson": "3"
+    },
+    "39": {
+        "interval": [
+            7,
+            24.5,
+            7,
+            7,
+            7,
+            42.875,
+            7,
+            7,
+            7,
+            24.5,
+            150.0625
+        ],
+        "correctScore": [
+            0.125,
+            0.5,
+            0.25,
+            0,
+            0,
+            0.875,
+            0,
+            0.125,
+            0.125,
+            0.5,
+            0.875
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693920,
+            1726694349254,
+            1726696032392,
+            1726697904608,
+            1726697924867,
+            1726698358637,
+            1726700954847,
+            1726702402548,
+            1726702832426,
+            1726734176325,
+            1726735677688,
+            1726745611401
+        ],
+        "text1": "打棒球和游泳，你呢？",
+        "text2": "Play baseball and swim. And you?",
+        "text3": "Dǎ bàngqiú hàn yóuyǒng, nǐ ne?",
+        "text4": "打棒球和游泳，你呢？",
+        "text5": "大棒球和游泳你呢",
+        "audio": "1040田中：打棒球和游泳，你呢？.mp3",
+        "book": "1",
+        "lesson": "3"
+    },
+    "40": {
+        "interval": [
+            7,
+            34.3,
+            7,
+            7,
+            44.1,
+            7,
+            44.1,
+            216.08999999999997
+        ],
+        "correctScore": [
+            0.9,
+            0.7,
+            0.05555555555555555,
+            0.058823529411764705,
+            0.9,
+            0.2,
+            0.9,
+            0.7
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726693930,
+            1726694359087,
+            1726696630328,
+            1726698006182,
+            1726698462159,
+            1726701146411,
+            1726702734118,
+            1726736421761,
+            1726749601821
+        ],
+        "text1": "我常打籃球，也常踢足球。",
+        "text2": "I often play basketball and also often play soccer.",
+        "text3": "Wǒ cháng dǎ lánqiú, yě cháng tī zúqiú.",
+        "text4": "我常打籃球，也常踢足球。",
+        "text5": "我唱打�球也唱踢足球",
+        "audio": "1041安同：我常打籃球，也常踢足球。.mp3",
+        "book": "1",
+        "lesson": "3"
+    },
+    "41": {
+        "interval": [
+            7,
+            7,
+            7,
+            29.400000000000002,
+            7,
+            7,
+            16.333333333333332,
+            63.51851851851852,
+            345.8230452674897
+        ],
+        "correctScore": [
+            0.3333333333333333,
+            0,
+            0,
+            0.6,
+            0.13636363636363635,
+            0,
+            0.3333333333333333,
+            0.5555555555555556,
+            0.7777777777777778
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726694590,
+            1726695018659,
+            1726695453336,
+            1726695883633,
+            1726698454396,
+            1726698935773,
+            1726699372194,
+            1726700374222,
+            1726705545732.111,
+            1726754928304.716
+        ],
+        "text1": "我覺得踢足球很好玩。",
+        "text2": "I think soccer is fun.",
+        "text3": "Wǒ juéde tī zúqiú hěn hǎowán.",
+        "text4": "我覺得踢足球很好玩。",
+        "text5": "我覺得這次球很好玩",
+        "audio": "1042田中：我覺得踢足球很好玩。.mp3",
+        "book": "1",
+        "lesson": "3"
+    },
+    "42": {
+        "interval": [
+            7,
+            33.6875,
+            162.12109375,
+            992.99169921875
+        ],
+        "correctScore": [
+            0.875,
+            0.6875,
+            0.6875,
+            0.875
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726694601,
+            1726695035234,
+            1726697083358,
+            1726707299733.625,
+            1726794068805.9531
+        ],
+        "text1": "明天是週末，我們早上去踢足球，怎麼樣？",
+        "text2": "The weekend is tomorrow. How about we go play soccer tomorrow morning?",
+        "text3": "Míngtiān shì zhōumò, Wǒmen zǎoshàng qù tī zúqiú, zěnmeyàng?",
+        "text4": "明天是週末，我們早上去踢足球，怎麼樣？",
+        "text5": "明天是周末我們走上去踢足球怎麼樣",
+        "audio": "1043安同：明天是週末，我們早上去踢足球，怎麼樣？.mp3",
+        "book": "1",
+        "lesson": "3"
+    },
+    "43": {
+        "interval": [
+            7,
+            49,
+            343,
+            1200.5
+        ],
+        "correctScore": [
+            1,
+            1,
+            1,
+            0.5
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726694620,
+            1726695046706,
+            1726698016343,
+            1726718822669,
+            1726808894100
+        ],
+        "text1": "好啊！",
+        "text2": "Great!",
+        "text3": "Hǎo a!",
+        "text4": "好啊！",
+        "text5": "好喝",
+        "audio": "1044田中：好啊！.mp3",
+        "book": "1",
+        "lesson": "3"
+    },
+    "44": {
+        "interval": [
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726694628,
+            1726695057558,
+            1726698026800,
+            1726718832602,
+            1726880937189
+        ],
+        "text1": "今天晚上我們去看電影，好不好？",
+        "text2": "Let's go see a movie tonight, OK?",
+        "text3": "Jīntiān wǎnshàng wǒmen qù kàn diànyǐng, hǎo bù hǎo?",
+        "text4": "今天晚上我們去看電影，好不好？",
+        "text5": "今天晚上我們去看電影好不好",
+        "audio": "1045如玉：今天晚上我們去看電影，好不好？.mp3",
+        "book": "1",
+        "lesson": "3"
+    },
+    "45": {
+        "interval": [
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726694640,
+            1726695066671,
+            1726698041741,
+            1726718841206,
+            1726880945469
+        ],
+        "text1": "好啊！",
+        "text2": "Sure.",
+        "text3": "Hǎo a!",
+        "text4": "好啊！",
+        "text5": "好啊",
+        "audio": "1046月美：好啊！.mp3",
+        "book": "1",
+        "lesson": "3"
+    },
+    "46": {
+        "interval": [
+            7,
+            45.23076923076923,
+            292.2603550295858,
+            1888.4515248065545
+        ],
+        "correctScore": [
+            0.9230769230769231,
+            0.9230769230769231,
+            0.9230769230769231,
+            0.9230769230769231
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726694648,
+            1726695079583,
+            1726697828288.1538,
+            1726715390510.3018,
+            1726848363669.4883
+        ],
+        "text1": "妳想看美國電影還是臺灣電影？",
+        "text2": "Do (f) you want to see an American movie or a Taiwanese movie?",
+        "text3": "Nǎi xiǎng kàn Měiguó diànyǐng háishì Táiwān diànyǐng?",
+        "text4": "妳想看美國電影還是臺灣電影？",
+        "text5": "你想看美國電影還是臺灣電影",
+        "audio": "1047如玉：妳想看美國電影還是臺灣電影？.mp3",
+        "book": "1",
+        "lesson": "3"
+    },
+    "47": {
+        "interval": [
+            7,
+            49,
+            285.83333333333337,
+            2000.8333333333335
+        ],
+        "correctScore": [
+            0.9166666666666666,
+            1,
+            0.8333333333333334,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726694662,
+            1726695093812,
+            1726698067140,
+            1726715424315,
+            1726855061233
+        ],
+        "text1": "美國電影、臺灣電影，我都想看。",
+        "text2": "Either an American movie or a Taiwanese movie is fine with me.",
+        "text3": "Měiguó diànyǐng, Táiwān diànyǐng, wǒ dōu xiǎng kàn.",
+        "text4": "美國電影、臺灣電影，我都想看。",
+        "text5": "美國電影臺灣電影我都想看",
+        "audio": "1048月美：美國電影、臺灣電影，我都想看。.mp3",
+        "book": "1",
+        "lesson": "3"
+    },
+    "48": {
+        "interval": [
+            7,
+            49,
+            171.5,
+            1050.4375
+        ],
+        "correctScore": [
+            1,
+            1,
+            0.5,
+            0.875
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726694679,
+            1726695121051,
+            1726697849842,
+            1726708577937,
+            1726797548788
+        ],
+        "text1": "我們看臺灣電影吧！",
+        "text2": "Let's go ahead and see a Taiwanese movie.",
+        "text3": "Wǒmen kàn Táiwān diànyǐng ba!",
+        "text4": "我們看臺灣電影吧！",
+        "text5": "我們看台灣電影吧",
+        "audio": "1049如玉：我們看臺灣電影吧！.mp3",
+        "book": "1",
+        "lesson": "3"
+    },
+    "49": {
+        "interval": [
+            7,
+            39.2,
+            164.64,
+            921.9839999999999
+        ],
+        "correctScore": [
+            0.9,
+            0.8,
+            0.6,
+            0.8
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726694704,
+            1726695134218,
+            1726697502281,
+            1726707535031,
+            1726789825950
+        ],
+        "text1": "好啊！看電影可以學中文。",
+        "text2": "That's fine. Watching movies, I can learn Chinese.",
+        "text3": "Hǎo a! Kàn diànyǐng kěyǐ xué Zhōngwén.",
+        "text4": "好啊！看電影可以學中文。",
+        "text5": "好看電影可以說中文",
+        "audio": "1050月美：好啊！看電影可以學中文。.mp3",
+        "book": "1",
+        "lesson": "3"
+    },
+    "50": {
+        "interval": [
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726694716,
+            1726695150229,
+            1726698101230,
+            1726718878585,
+            1726881025565
+        ],
+        "text1": "晚上要不要一起吃晚飯？",
+        "text2": "Would you like to have dinner together tonight?",
+        "text3": "Wǎnshàng yào bú yào yìqǐ chī wǎnfàn?",
+        "text4": "晚上要不要一起吃晚飯？",
+        "text5": "晚上要不要一起吃晚飯",
+        "audio": "1051如玉：晚上要不要一起吃晚飯？.mp3",
+        "book": "1",
+        "lesson": "3"
+    },
+    "51": {
+        "interval": [
+            7,
+            36.75,
+            7,
+            42.875,
+            300.125,
+            1313.046875
+        ],
+        "correctScore": [
+            1,
+            0.75,
+            0,
+            0.875,
+            1,
+            0.625
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726694734,
+            1726695167745,
+            1726697507854,
+            1726698036394,
+            1726700205172,
+            1726715652052,
+            1726813886927.5
+        ],
+        "text1": "好，我們去吃越南菜。",
+        "text2": "Okay. Let's go have Vietnamese food.",
+        "text3": "Hǎo, wǒmen qù chī Yuènán cài.",
+        "text4": "好，我們去吃越南菜。",
+        "text5": "好我們繼續越南賽",
+        "audio": "1052月美：好，我們去吃越南菜。.mp3",
+        "book": "1",
+        "lesson": "3"
+    },
+    "52": {
+        "interval": [
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726694781,
+            1726695210448,
+            1726698254021,
+            1726718891281,
+            1726881045967
+        ],
+        "text1": "請問一共多少錢？",
+        "text2": "Excuse Me. How Much Does That Cost in Total?",
+        "text3": "qǐngwèn yīgòng duōshaoqián",
+        "text4": "請問一共多少錢？",
+        "text5": "請問一共多少錢",
+        "audio": "1053請問一共多少錢？.mp3",
+        "book": "1",
+        "lesson": "4"
+    },
+    "53": {
+        "interval": [
+            7,
+            49,
+            294,
+            1764
+        ],
+        "correctScore": [
+            0.8571428571428571,
+            1,
+            0.8571428571428571,
+            0.8571428571428571
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726694799,
+            1726695225903,
+            1726698262313,
+            1726715960494,
+            1726840907741
+        ],
+        "text1": "請問你要買什麼？",
+        "text2": "Excuse me, what would you like (to order)?",
+        "text3": "Qǐngwèn nǐ yào mǎi shénme?",
+        "text4": "請問你要買什麼？",
+        "text5": "請問你要賣什麼",
+        "audio": "1054老闆：請問你要買什麼？.mp3",
+        "book": "1",
+        "lesson": "4"
+    },
+    "54": {
+        "interval": [
+            7,
+            49,
+            343,
+            2134.222222222222
+        ],
+        "correctScore": [
+            1,
+            1,
+            1,
+            0.8888888888888888
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726694807,
+            1726695236257,
+            1726698271121,
+            1726718909198,
+            1726865052048.3333
+        ],
+        "text1": "一杯熱咖啡。兩個包子。",
+        "text2": "A cup of hot coffee and two Baozi.",
+        "text3": "Yì bēi rè kāfēi. Liǎng ge bāozi.",
+        "text4": "一杯熱咖啡。兩個包子。",
+        "text5": "一杯的咖啡兩個包子",
+        "audio": "1055月華：一杯熱咖啡。兩個包子。.mp3",
+        "book": "1",
+        "lesson": "4"
+    },
+    "55": {
+        "interval": [
+            7,
+            40.833333333333336,
+            285.83333333333337,
+            2000.8333333333335
+        ],
+        "correctScore": [
+            1,
+            0.8333333333333334,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726694818,
+            1726695247510,
+            1726697791351,
+            1726714953481,
+            1726855074113
+        ],
+        "text1": "你要大杯、中杯還是小杯？",
+        "text2": "Would you like a large, medium or small cup?",
+        "text3": "Nǐ yào dà bēi, zhōng bēi háishì xiǎo bēi?",
+        "text4": "你要大杯、中杯還是小杯？",
+        "text5": "你要大杯、中杯還是小杯",
+        "audio": "1056老闆：你要大杯、中杯還是小杯？.mp3",
+        "book": "1",
+        "lesson": "4"
+    },
+    "56": {
+        "interval": [
+            7,
+            43.55555555555555,
+            135.50617283950615,
+            758.8345679012344
+        ],
+        "correctScore": [
+            0.7777777777777778,
+            0.8888888888888888,
+            0.4444444444444444,
+            0.8
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726694830,
+            1726695260007,
+            1726697966157.3333,
+            1726706234897.3704,
+            1726779932564.074
+        ],
+        "text1": "大杯。包子請幫我微波。",
+        "text2": "Large. Please microwave the Baozi for me.",
+        "text3": "Dà bēi. Bāozi qǐng bāng wǒ wéibō.",
+        "text4": "大杯。包子請幫我微波。",
+        "text5": "大伯伯包子請幫我微波",
+        "audio": "1057月華：大杯。包子請幫我微波。.mp3",
+        "book": "1",
+        "lesson": "4"
+    },
+    "57": {
+        "interval": [
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726694841,
+            1726695270868,
+            1726698312592,
+            1726718921842,
+            1726881084106
+        ],
+        "text1": "好的。請問外帶還是內用？",
+        "text2": "OK. Excuse me. Is this to go or for here?",
+        "text3": "Hǎode. Qǐngwèn wàidài háishì nèiyòng?",
+        "text4": "好的。請問外帶還是內用？",
+        "text5": "好的請問外帶還是內用",
+        "audio": "1058老闆：好的。請問外帶還是內用？.mp3",
+        "book": "1",
+        "lesson": "4"
+    },
+    "58": {
+        "interval": [
+            7,
+            49,
+            7,
+            35,
+            245,
+            7,
+            49,
+            128.625
+        ],
+        "correctScore": [
+            1,
+            1,
+            0.18181818181818182,
+            0.7142857142857143,
+            1,
+            0,
+            1,
+            0.375
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726694855,
+            1726695282031,
+            1726698329079,
+            1726698771222,
+            1726700904344,
+            1726716521246,
+            1726735176858,
+            1726738142350,
+            1726746151288
+        ],
+        "text1": "外帶，一共多少錢？",
+        "text2": "To go. How much does that cost altogether?",
+        "text3": "Wàidài, yígòng duōshǎo qián?",
+        "text4": "外帶，一共多少錢？",
+        "text5": "懷黛已經多少錢了",
+        "audio": "1059月華：外帶，一共多少錢？.mp3",
+        "book": "1",
+        "lesson": "4"
+    },
+    "59": {
+        "interval": [
+            7,
+            49,
+            251.5333333333333,
+            1760.7333333333331
+        ],
+        "correctScore": [
+            0.8666666666666667,
+            1,
+            0.7333333333333333,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726694864,
+            1726695304246,
+            1726698346591,
+            1726713458782,
+            1726840444081
+        ],
+        "text1": "咖啡八十，包子四十，一共一百二十塊。",
+        "text2": "80 for the coffee, 40 for the Baozi. That will be 120 in total.",
+        "text3": "Kāfēi bāshí, bāozi sìshí, yígòng yìbǎi èrshí kuài.",
+        "text4": "咖啡八十，包子四十，一共一百二十塊。",
+        "text5": "咖啡八十包子四十一共一百二十塊",
+        "audio": "1060老闆：咖啡八十，包子四十，一共一百二十塊。.mp3",
+        "book": "1",
+        "lesson": "4"
+    },
+    "60": {
+        "interval": [
+            7,
+            49,
+            152.44444444444443,
+            1067.111111111111
+        ],
+        "correctScore": [
+            1,
+            1,
+            0.4444444444444444,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726694888,
+            1726695315507,
+            1726698359492,
+            1726707670937.6667,
+            1726798468236.6667
+        ],
+        "text1": "我想買一支新手機。",
+        "text2": "I want to buy a new cell phone.",
+        "text3": "Wǒ xiǎng mǎi yì zhī xīn shǒujī.",
+        "text4": "我想買一支新手機。",
+        "text5": "我想買一支新手機",
+        "audio": "1061月美：我想買一支新手機。.mp3",
+        "book": "1",
+        "lesson": "4"
+    },
+    "61": {
+        "interval": [
+            7,
+            41.46153846153847,
+            245.57988165680476,
+            1454.588529813382
+        ],
+        "correctScore": [
+            0.8461538461538461,
+            0.8461538461538461,
+            0.8461538461538461,
+            0.8461538461538461
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726694897,
+            1726695326361,
+            1726697918756.3076,
+            1726712828475.8994,
+            1726822053793.7888
+        ],
+        "text1": "妳的手機很好。為什麼要買新的？",
+        "text2": "(f) Your cell phone is fine. Why do you want to buy a new one?",
+        "text3": "Nǐ de shǒujī hěn hǎo. Wèishénme yào mǎi xīn de?",
+        "text4": "妳的手機很好。為什麼要買新的？",
+        "text5": "你的手機很好為什麼要賣新的",
+        "audio": "1062明華：妳的手機很好。為什麼要買新的？.mp3",
+        "book": "1",
+        "lesson": "4"
+    },
+    "62": {
+        "interval": [
+            7,
+            44.54545454545455,
+            283.4710743801653,
+            1984.2975206611573
+        ],
+        "correctScore": [
+            0.6363636363636364,
+            0.9090909090909091,
+            0.9090909090909091,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726694908,
+            1726695395372,
+            1726698121610.2727,
+            1726715143418.463,
+            1726854055625.2397
+        ],
+        "text1": "我這支手機太舊了，不好看。",
+        "text2": "This one of mine is too old. It is unattractive.",
+        "text3": "Wǒ zhè zhī shǒujī tài jiù le, bù hǎokàn.",
+        "text4": "我這支手機太舊了，不好看。",
+        "text5": "我這支手機太舊了不好看",
+        "audio": "1063月美：我這支手機太舊了，不好看。.mp3",
+        "book": "1",
+        "lesson": "4"
+    },
+    "63": {
+        "interval": [
+            7,
+            7,
+            28,
+            7,
+            7,
+            24.5,
+            122.5,
+            612.5
+        ],
+        "correctScore": [
+            0.8571428571428571,
+            0,
+            0.5714285714285714,
+            0.2857142857142857,
+            0,
+            0.5,
+            0.7142857142857143,
+            0.7142857142857143
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726694976,
+            1726695403474,
+            1726695407866,
+            1726697138295,
+            1726697949451,
+            1726698374715,
+            1726699879789,
+            1726707266102,
+            1726771081567
+        ],
+        "text1": "妳想買哪種手機？",
+        "text2": "What kind of cell phone do (f) you want to buy?",
+        "text3": "Nǐ xiǎng mǎi nǎ zhǒng shǒujī?",
+        "text4": "妳想買哪種手機？",
+        "text5": "你想買哪張手機",
+        "audio": "1064明華：妳想買哪種手機？.mp3",
+        "book": "1",
+        "lesson": "4"
+    },
+    "64": {
+        "interval": [
+            7,
+            28,
+            7,
+            49,
+            294,
+            1176
+        ],
+        "correctScore": [
+            0.42857142857142855,
+            0.5714285714285714,
+            0.14285714285714285,
+            1,
+            0.8571428571428571,
+            0.5714285714285714
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726694987,
+            1726695426308,
+            1726697165436,
+            1726697958362,
+            1726701020468,
+            1726720064911,
+            1726805643700
+        ],
+        "text1": "能照相也能上網。",
+        "text2": "One that can take photos and go online.",
+        "text3": "Néng zhàoxiàng yě néng shàngwǎng.",
+        "text4": "能照相也能上網。",
+        "text5": "您好像也能上網",
+        "audio": "1065月美：能照相也能上網。.mp3",
+        "book": "1",
+        "lesson": "4"
+    },
+    "65": {
+        "interval": [
+            7,
+            49,
+            228.66666666666666,
+            1600.6666666666665
+        ],
+        "correctScore": [
+            1,
+            1,
+            0.6666666666666666,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726695007,
+            1726695442591,
+            1726698437113,
+            1726712276100,
+            1726830716588
+        ],
+        "text1": "那種手機很好，我哥哥有一支。",
+        "text2": "Those kinds of cell phones are good. My brother has one.",
+        "text3": "Nà zhǒng shǒujī hěn hǎo, wǒ gēge yǒu yì zhī.",
+        "text4": "那種手機很好，我哥哥有一支。",
+        "text5": "那種手機很好我哥哥有一支",
+        "audio": "1066明華：那種手機很好，我哥哥有一支。.mp3",
+        "book": "1",
+        "lesson": "4"
+    },
+    "66": {
+        "interval": [
+            7,
+            43.55555555555555,
+            203.2592592592592,
+            948.5432098765428
+        ],
+        "correctScore": [
+            0.8888888888888888,
+            0.8888888888888888,
+            0.6666666666666666,
+            0.6666666666666666
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726695129,
+            1726695557481,
+            1726699315186.3333,
+            1726711605067.5557,
+            1726791483421.5925
+        ],
+        "text1": "貴不貴？一支賣多少錢？",
+        "text2": "Are they expensive? How much does one cost?",
+        "text3": "Guì bú guì? Yì zhī mài duōshǎo qián?",
+        "text4": "貴不貴？一支賣多少錢？",
+        "text5": "跪不跪一直賣多少錢",
+        "audio": "1067月美：貴不貴？一支賣多少錢？.mp3",
+        "book": "1",
+        "lesson": "4"
+    },
+    "67": {
+        "interval": [
+            7,
+            39.2,
+            274.40000000000003,
+            1664.6933333333336
+        ],
+        "correctScore": [
+            0.8666666666666667,
+            0.8,
+            1,
+            0.8666666666666667
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726695164,
+            1726695596807,
+            1726699072586,
+            1726715591516,
+            1726834836545
+        ],
+        "text1": "那種手機不便宜。一支要一萬五千多。",
+        "text2": "That kind of cell phone is not cheap. One costs over NTD 15,000.",
+        "text3": "Nà zhǒng shǒujī bù piányí. Yì zhī yào yíwàn wǔqiān duō.",
+        "text4": "那種手機不便宜。一支要一萬五千多。",
+        "text5": "那種手機不便宜就要一萬五千多",
+        "audio": "1068明華：那種手機不便宜。一支要一萬五千多。.mp3",
+        "book": "1",
+        "lesson": "4"
+    },
+    "68": {
+        "interval": [
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726695499,
+            1726695927645,
+            1726699688242,
+            1726720340971,
+            1726881095278
+        ],
+        "text1": "牛肉麵真好吃",
+        "text2": "Beef Noodles Are Really Delicious",
+        "text3": "niúròumiàn zhēn hǎo chī",
+        "text4": "牛肉麵真好吃",
+        "text5": "牛肉麵真好吃",
+        "audio": "1069牛肉麵真好吃.mp3",
+        "book": "1",
+        "lesson": "5"
+    },
+    "69": {
+        "interval": [
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726695509,
+            1726695942095,
+            1726699706884,
+            1726720354586,
+            1726881114873
+        ],
+        "text1": "很多人都說臺灣有不少有名的小吃。",
+        "text2": "Many people say Taiwan has quite a few well-known snacks.",
+        "text3": "Hěn duō rén dōu shuō Táiwān yǒu bù shǎo yǒumíng de xiǎochī.",
+        "text4": "很多人都說臺灣有不少有名的小吃。",
+        "text5": "很多人都說臺灣有不少有名的小吃",
+        "audio": "1070月美：很多人都說臺灣有不少有名的小吃。.mp3",
+        "book": "1",
+        "lesson": "5"
+    },
+    "70": {
+        "interval": [
+            7,
+            32.666666666666664,
+            127.03703703703704,
+            592.8395061728395
+        ],
+        "correctScore": [
+            0.7222222222222222,
+            0.6666666666666666,
+            0.5555555555555556,
+            0.6666666666666666
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726695527,
+            1726698992808,
+            1726700986143,
+            1726709431522.2222,
+            1726769927994.3704
+        ],
+        "text1": "是啊！牛肉麵、小籠包、臭豆腐...都很好吃。",
+        "text2": "That's right. Beef noodles, xiaolongbao, stinky tofu... are all tasty.",
+        "text3": "Shì a. Niúròu miàn, xiǎolóngbāo, chòu dòufǔ... dōu hěn hǎochī.",
+        "text4": "是啊！牛肉麵、小籠包、臭豆腐...都很好吃。",
+        "text5": "是啊牛肉麵香煲臭豆腐都很好吃",
+        "audio": "1071明華：是啊！牛肉麵、小籠包、臭豆腐...都很好吃。.mp3",
+        "book": "1",
+        "lesson": "5"
+    },
+    "71": {
+        "interval": [
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726698578,
+            1726699005096,
+            1726701977507,
+            1726723018643,
+            1726881125820
+        ],
+        "text1": "你最喜歡吃什麼？",
+        "text2": "What do you like to eat most?",
+        "text3": "Nǐ zuì xǐhuān chī shénme?",
+        "text4": "你最喜歡吃什麼？",
+        "text5": "你最喜歡吃什麼",
+        "audio": "1072月美：你最喜歡吃什麼？.mp3",
+        "book": "1",
+        "lesson": "5"
+    },
+    "72": {
+        "interval": [
+            7,
+            36.75,
+            187.0909090909091,
+            1200.5
+        ],
+        "correctScore": [
+            0.8181818181818182,
+            0.75,
+            0.7272727272727273,
+            0.9166666666666666
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726698588,
+            1726699018110,
+            1726701254225,
+            1726713075389.5454,
+            1726806571841
+        ],
+        "text1": "牛肉麵。牛肉好吃，湯也好喝。",
+        "text2": "Beef noodles. The beef tastes good and the soup is nice.",
+        "text3": "Niúròu miàn. Niúròu hǎochī, tāng yě hǎohē.",
+        "text4": "牛肉麵。牛肉好吃，湯也好喝。",
+        "text5": "牛肉麵牛肉好吃�湯也好喝",
+        "audio": "1073明華：牛肉麵。牛肉好吃，湯也好喝。.mp3",
+        "book": "1",
+        "lesson": "5"
+    },
+    "73": {
+        "interval": [
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726698609,
+            1726699039096,
+            1726702006380,
+            1726723028977,
+            1726881136190
+        ],
+        "text1": "這麼好吃，我很想吃。",
+        "text2": "(That) so tasty. I would like to have some.",
+        "text3": "Zhème hǎochī, wǒ hěn xiǎng chī.",
+        "text4": "這麼好吃，我很想吃。",
+        "text5": "這麼好吃我很想吃",
+        "audio": "1074月美：這麼好吃，我很想吃。.mp3",
+        "book": "1",
+        "lesson": "5"
+    },
+    "74": {
+        "interval": [
+            7,
+            44.33333333333333,
+            310.3333333333333,
+            2073.590909090909
+        ],
+        "correctScore": [
+            0.8636363636363636,
+            0.9047619047619048,
+            1,
+            0.9545454545454546
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726698622,
+            1726699061349,
+            1726701745745,
+            1726721019198,
+            1726859583974.5454
+        ],
+        "text1": "我知道一家有名的牛肉麵店，我們一起去吃，怎麼樣？",
+        "text2": "I know a place that is well known for its beef noodles. Let's go together and have some. What do you say?",
+        "text3": "Wǒ zhīdào yì jiā yǒumíng de niúròu miàn diàn, Wǒmen yìqǐ qù chī, zěnmeyàng?",
+        "text4": "我知道一家有名的牛肉麵店，我們一起去吃，怎麼樣？",
+        "text5": "我知道一家有名的牛肉麵店 我們一起去吃怎麼樣",
+        "audio": "1075明華：我知道一家有名的牛肉麵店，我們一起去吃，怎麼樣？.mp3",
+        "book": "1",
+        "lesson": "5"
+    },
+    "75": {
+        "interval": [
+            7,
+            49,
+            343,
+            2401
+        ],
+        "correctScore": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726698662,
+            1726699087632,
+            1726702042425,
+            1726723037471,
+            1726881281605
+        ],
+        "text1": "太好了！",
+        "text2": "Wonderful!",
+        "text3": "Tài hǎo le!",
+        "text4": "太好了！",
+        "text5": "太好了",
+        "audio": "1076月美：太好了！.mp3",
+        "book": "1",
+        "lesson": "5"
+    },
+    "76": {
+        "interval": [
+            7,
+            22.615384615384617,
+            79.15384615384616,
+            415.5576923076923
+        ],
+        "correctScore": [
+            0.6666666666666666,
+            0.46153846153846156,
+            0.5,
+            0.75
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726698669,
+            1726699097975,
+            1726700468868.077,
+            1726706501606.7693,
+            1726759160413.5386
+        ],
+        "text1": "我們明天去。一定要點大碗的。",
+        "text2": "Let's go tomorrow. You really have to order a large bowl.",
+        "text3": "Wǒmen míngtiān qù. Yídìng yào diǎn dà wǎn de.",
+        "text4": "我們明天去。一定要點大碗的。",
+        "text5": "我們明天說一定要見大王的",
+        "audio": "1077明華：我們明天去。一定要點大碗的。.mp3",
+        "book": "1",
+        "lesson": "5"
+    },
+    "77": {
+        "interval": [
+            7,
+            43.8421052631579,
+            242.2853185595568,
+            1338.9451815133402
+        ],
+        "correctScore": [
+            0.7894736842105263,
+            0.8947368421052632,
+            0.7894736842105263,
+            0.7894736842105263
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726698681,
+            1726699123679,
+            1726701783135.3157,
+            1726716556831.1135,
+            1726815062865.8909
+        ],
+        "text1": "昨天晚上那家餐廳的菜很好吃，可是有一點辣。",
+        "text2": "The food at the restaurant last night was good, but it was a bit spicy.",
+        "text3": "Zuótiān wǎnshàng nà jiā cāntīng de cài hěn hǎochī, kěshì yǒu yìdiǎn là.",
+        "text4": "昨天晚上那家餐廳的菜很好吃，可是有一點辣。",
+        "text5": "今天晚上呢這餐廳菜很好吃可是有一點辣",
+        "audio": "1078月美：昨天晚上那家餐廳的菜很好吃，可是有一點辣。.mp3",
+        "book": "1",
+        "lesson": "5"
+    },
+    "78": {
+        "interval": [
+            7,
+            7,
+            49,
+            318.5,
+            686
+        ],
+        "correctScore": [
+            1,
+            0.07692307692307693,
+            1,
+            0.9285714285714286,
+            0.3076923076923077
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726698734,
+            1726699167844,
+            1726699638249,
+            1726702634716,
+            1726721763368,
+            1726776429593
+        ],
+        "text1": "我也怕辣，所以我喜歡自己做飯。",
+        "text2": "I can't take spicy (food), either. That's why I prefer to cook for myself.",
+        "text3": "Wǒ yě pà là, suǒyǐ wǒ xǐhuān zìjǐ zuòfàn.",
+        "text4": "我也怕辣，所以我喜歡自己做飯。",
+        "text5": "我愛%, 我喜歡吃就喝",
+        "audio": "1079安同：我也怕辣，所以我喜歡自己做飯。.mp3",
+        "book": "1",
+        "lesson": "5"
+    },
+    "79": {
+        "interval": [
+            7,
+            42.875,
+            300.125,
+            2100.875
+        ],
+        "correctScore": [
+            1,
+            0.875,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726698750,
+            1726699232939,
+            1726701833942,
+            1726720008052,
+            1726861184365
+        ],
+        "text1": "你做飯做得怎麼樣？",
+        "text2": "How well do you cook?",
+        "text3": "Nǐ zuòfàn zuò de zěnmeyàng?",
+        "text4": "你做飯做得怎麼樣？",
+        "text5": "你做飯做得怎麼樣",
+        "audio": "1080月美：你做飯做得怎麼樣？.mp3",
+        "book": "1",
+        "lesson": "5"
+    },
+    "80": {
+        "interval": [
+            7,
+            39.2,
+            219.52,
+            1229.3120000000001
+        ],
+        "correctScore": [
+            0.8,
+            0.8,
+            0.8,
+            0.8
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726698814,
+            1726699242665,
+            1726701622771,
+            1726715058814,
+            1726808345393
+        ],
+        "text1": "我做得不好。妳會做飯嗎？",
+        "text2": "I don't cook well. Can (f) you cook?",
+        "text3": "Wǒ zuò de bù hǎo. Nǐ huì zuòfàn ma?",
+        "text4": "我做得不好。妳會做飯嗎？",
+        "text5": "我做的不好你會做飯嗎",
+        "audio": "1081安同：我做得不好。妳會做飯嗎？.mp3",
+        "book": "1",
+        "lesson": "5"
+    },
+    "81": {
+        "interval": [
+            7,
+            24.5,
+            51.449999999999996,
+            130.96363636363634
+        ],
+        "correctScore": [
+            0.45454545454545453,
+            0.5,
+            0.3,
+            0.36363636363636365
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726698824,
+            1726699253711,
+            1726700759106,
+            1726704852657,
+            1726742026199.182
+        ],
+        "text1": "會。我的甜點也做得不錯。",
+        "text2": "Yes. I make good desserts, too.",
+        "text3": "Huì. Wǒ de tiándiǎn yě zuò de búcuò.",
+        "text4": "會。我的甜點也做得不錯。",
+        "text5": "嘿我的田田也什麼都不做",
+        "audio": "1082月美：會。我的甜點也做得不錯。.mp3",
+        "book": "1",
+        "lesson": "5"
+    },
+    "82": {
+        "interval": [
+            7,
+            41.46153846153847,
+            228.03846153846155,
+            1350.689349112426
+        ],
+        "correctScore": [
+            0.8461538461538461,
+            0.8461538461538461,
+            0.7857142857142857,
+            0.8461538461538461
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726698836,
+            1726699268165,
+            1726701788367.3076,
+            1726715648771.6924,
+            1726815697079.9468
+        ],
+        "text1": "我最喜歡吃甜點。妳可以教我嗎？",
+        "text2": "I like eating desserts most. Could (f) you teach me?",
+        "text3": "Wǒ zuì xǐhuān chī tiándiǎn. Nǐ kěyǐ jiāo wǒ ma?",
+        "text4": "我最喜歡吃甜點。妳可以教我嗎？",
+        "text5": "我最喜歡吃甜點你可以叫我嗎",
+        "audio": "1083安同：我最喜歡吃甜點。妳可以教我嗎？.mp3",
+        "book": "1",
+        "lesson": "5"
+    },
+    "83": {
+        "interval": [
+            7,
+            49,
+            280.6363636363636,
+            1607.280991735537
+        ],
+        "correctScore": [
+            1,
+            1,
+            0.8181818181818182,
+            0.8181818181818182
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726698852,
+            1726699283624,
+            1726702253473,
+            1726719320794.818,
+            1726831423009.5042
+        ],
+        "text1": "好的，這個週末，你到我家來。",
+        "text2": "Sure. Come over to my place this weekend.",
+        "text3": "Hǎode, zhè ge zhōumò, nǐ dào wǒ jiā lái.",
+        "text4": "好的，這個週末，你到我家來。",
+        "text5": "好的幾個秋末你到我家來",
+        "audio": "1084月美：好的，這個週末，你到我家來。.mp3",
+        "book": "1",
+        "lesson": "5"
+    },
+    "84": {
+        "interval": [
+            7,
+            39.2,
+            219.52,
+            1229.3120000000001
+        ],
+        "correctScore": [
+            0.8,
+            0.8,
+            0.8,
+            0.8
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726698867,
+            1726699295000,
+            1726701674380,
+            1726715066801,
+            1726808356769
+        ],
+        "text1": "好啊！謝謝妳。",
+        "text2": "Great! Thank (f) you.",
+        "text3": "Hǎo a! Xièxie nǐ.",
+        "text4": "好啊！謝謝妳。",
+        "text5": "好啊謝謝您",
+        "audio": "1085安同：好啊！謝謝妳。.mp3",
+        "book": "1",
+        "lesson": "5"
+    },
+    "85": {
+        "interval": [
+            7,
+            35,
+            105,
+            420
+        ],
+        "correctScore": [
+            0.18181818181818182,
+            0.7142857142857143,
+            0.42857142857142855,
+            0.5714285714285714
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726698877,
+            1726699306466,
+            1726701432008,
+            1726708136216,
+            1726759517950
+        ],
+        "text1": "他們學校在山上",
+        "text2": "Their School Is Up in the Mountains",
+        "text3": "tāmen xuéxiào zài shānshàng",
+        "text4": "他們學校在山上",
+        "text5": "他們攜手在身上",
+        "audio": "1086他們學校在山上.mp3",
+        "book": "1",
+        "lesson": "6"
+    },
+    "86": {
+        "interval": [
+            7,
+            39.2,
+            219.52,
+            1229.3120000000001
+        ],
+        "correctScore": [
+            0.8,
+            0.8,
+            0.8,
+            0.8
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726698888,
+            1726699317113,
+            1726701695480,
+            1726715079297,
+            1726808372332
+        ],
+        "text1": "聽說怡君的學校很漂亮。",
+        "text2": "I heard Yijun's school is very beautiful.",
+        "text3": "Tīngshuō Yíjūn de xuéxiào hěn piàoliàng.",
+        "text4": "聽說怡君的學校很漂亮。",
+        "text5": "聽說以前的學校很漂亮",
+        "audio": "1087安同：聽說怡君的學校很漂亮。.mp3",
+        "book": "1",
+        "lesson": "6"
+    },
+    "87": {
+        "interval": [
+            7,
+            49,
+            240.09999999999997,
+            1344.56
+        ],
+        "correctScore": [
+            0.8,
+            1,
+            0.7,
+            0.8
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726698899,
+            1726699327454,
+            1726702294538,
+            1726716899525,
+            1726815382826
+        ],
+        "text1": "他們學校在哪裡？遠不遠？",
+        "text2": "Where is her school? Is it far?",
+        "text3": "Tāmen xuéxiào zài nǎlǐ? Yuǎn bù yuǎn?",
+        "text4": "他們學校在哪裡？遠不遠？",
+        "text5": "他們學校在哪裡延不延",
+        "audio": "1088如玉：他們學校在哪裡？遠不遠？.mp3",
+        "book": "1",
+        "lesson": "6"
+    },
+    "88": {
+        "interval": [
+            7,
+            39.2,
+            196.00000000000003,
+            1078.0000000000002
+        ],
+        "correctScore": [
+            0.9285714285714286,
+            0.8,
+            0.7142857142857143,
+            0.7857142857142857
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726698912,
+            1726699344248,
+            1726701719561,
+            1726713681619,
+            1726799237500
+        ],
+        "text1": "有一點遠。他們學校在花蓮的山上。",
+        "text2": "It is a bit far. Her school is up in the mountains in Hualien.",
+        "text3": "Yǒu yìdiǎn yuǎn. Tāmen xuéxiào zài Huālián de shānshàng.",
+        "text4": "有一點遠。他們學校在花蓮的山上。",
+        "text5": "有一間院他們學校在花蓮的身上",
+        "audio": "1089安同：有一點遠。他們學校在花蓮的山上。.mp3",
+        "book": "1",
+        "lesson": "6"
+    },
+    "89": {
+        "interval": [
+            7,
+            36.75,
+            79.15384615384616,
+            402.965034965035
+        ],
+        "correctScore": [
+            0.7272727272727273,
+            0.75,
+            0.3076923076923077,
+            0.7272727272727273
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726698927,
+            1726699360311,
+            1726701584930,
+            1726706617902.7693,
+            1726758421645.098
+        ],
+        "text1": "山上？那裡的風景一定很美。",
+        "text2": "Up in the mountains? The scenery there must be very beautiful.",
+        "text3": "Shānshàng? Nàlǐ de fēngjǐng yídìng hěn měi.",
+        "text4": "山上？那裡的風景一定很美。",
+        "text5": "深圳哪裡的風景一定很美",
+        "audio": "1090如玉：山上？那裡的風景一定很美。.mp3",
+        "book": "1",
+        "lesson": "6"
+    },
+    "90": {
+        "interval": [
+            7,
+            49,
+            330.2962962962963,
+            2312.074074074074
+        ],
+        "correctScore": [
+            0.07407407407407407,
+            1,
+            0.9629629629629629,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726698969,
+            1726699422795,
+            1726702410154,
+            1726722345090.7778,
+            1726874077904.4443
+        ],
+        "text1": "是的，他們學校前面有海，後面有山，那裡真的是一個很漂亮的地方。",
+        "text2": "Yes. In front of their School is the ocean and behind it there are mountains. It is really a beautiful place.",
+        "text3": "Shìde, tāmen xuéxiào qiánmiàn yǒu hǎi, hòumiàn yǒu shān, nàlǐ zhēnde shì yí ge hěn piàoliàng de dìfāng.",
+        "text4": "是的，他們學校前面有海，後面有山，那裡真的是一個很漂亮的地方。",
+        "text5": "是的他們學校前面有海後面有山那裡真的是一個很漂亮的地方",
+        "audio": "1091安同：是的，他們學校前面有海，後面有山，那裡真的是一個很漂亮的地方。.mp3",
+        "book": "1",
+        "lesson": "6"
+    },
+    "91": {
+        "interval": [
+            7,
+            45.733333333333334,
+            277.44888888888886,
+            1942.142222222222
+        ],
+        "correctScore": [
+            0.9333333333333333,
+            0.9333333333333333,
+            0.8666666666666667,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726699159,
+            1726699601483,
+            1726702457348,
+            1726719116082.3333,
+            1726851500407.3333
+        ],
+        "text1": "我想去看看。我們這個週末一起去吧！",
+        "text2": "I'd like to go see. Let's go together this weekend.",
+        "text3": "Wǒ xiǎng qù kànkàn. Wǒmen zhè ge zhōumò yìqǐ qù ba!",
+        "text4": "我想去看看。我們這個週末一起去吧！",
+        "text5": "我想去看看我們這個週末一起去吧",
+        "audio": "1092如玉：我想去看看。我們這個週末一起去吧！.mp3",
+        "book": "1",
+        "lesson": "6"
+    },
+    "92": {
+        "interval": [
+            7,
+            41.65,
+            262.395,
+            1653.0884999999998
+        ],
+        "correctScore": [
+            0.8,
+            0.85,
+            0.9,
+            0.9
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726699223,
+            1726699665584,
+            1726702243580,
+            1726718120164,
+            1726834084221
+        ],
+        "text1": "好啊！我現在要去學校附近的咖啡店買咖啡。你呢？",
+        "text2": "Okay. I am going to go to a cafe near the school now to buy some coffee. How about (f) you?",
+        "text3": "Hǎo a! Wǒ xiànzài yào qù xuéxiào fùjìn de kāfēi diàn mǎi kāfēi. nǐ ne?",
+        "text4": "好啊！我現在要去學校附近的咖啡店買咖啡。你呢？",
+        "text5": "好啊我現在要去附近的咖啡店買咖啡你呢",
+        "audio": "1093安同：好啊！我現在要去學校附近的咖啡店買咖啡。你呢？.mp3",
+        "book": "1",
+        "lesson": "6"
+    },
+    "93": {
+        "interval": [
+            7,
+            49,
+            251.5333333333333
+        ],
+        "correctScore": [
+            0.8125,
+            1,
+            0.7333333333333333
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726699414,
+            1726699845704,
+            1726702847091,
+            1726749099629
+        ],
+        "text1": "我去樓下找朋友，我們要一起去上課。",
+        "text2": "I am going to go downstairs to meet a friend. We are going to go to class together.",
+        "text3": "Wǒ qù lóuxià zhǎo péngyǒu, wǒmen yào yìqǐ qù shàngkè.",
+        "text4": "我去樓下找朋友，我們要一起去上課。",
+        "text5": "我出了學校朋友我們要一起去上課",
+        "audio": "1094如玉：我去樓下找朋友，我們要一起去上課。.mp3",
+        "book": "1",
+        "lesson": "6"
+    },
+    "94": {
+        "interval": [
+            7,
+            49,
+            343
+        ],
+        "correctScore": [
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726699480,
+            1726699912367,
+            1726702879960,
+            1726754598039
+        ],
+        "text1": "歡迎你們來。",
+        "text2": "Welcome.",
+        "text3": "Huānyíng nǐmen lái.",
+        "text4": "歡迎你們來。",
+        "text5": "歡迎你們來",
+        "audio": "1095怡君：歡迎你們來。.mp3",
+        "book": "1",
+        "lesson": "6"
+    },
+    "95": {
+        "interval": [
+            7,
+            32.666666666666664,
+            152.44444444444443,
+            355.7037037037037
+        ],
+        "correctScore": [
+            0.6666666666666666,
+            0.6666666666666666,
+            0.6666666666666666,
+            0.3333333333333333
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726699497,
+            1726699924649,
+            1726701914027,
+            1726711083231.6667,
+            1726755797979.2222
+        ],
+        "text1": "你們學校真遠！",
+        "text2": "Your school is really far.",
+        "text3": "Nǐmen xuéxiào zhēn yuǎn!",
+        "text4": "你們學校真遠！",
+        "text5": "你們寫小青年",
+        "audio": "1096安同：你們學校真遠！.mp3",
+        "book": "1",
+        "lesson": "6"
+    },
+    "96": {
+        "interval": [
+            7,
+            49,
+            343
+        ],
+        "correctScore": [
+            0.9166666666666666,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726699512,
+            1726699943507,
+            1726702909352,
+            1726754613924
+        ],
+        "text1": "是啊，不是很近，有一點不方便。",
+        "text2": "Yes. It's not close. It's a little inconvenient.",
+        "text3": "Shì a, búshì hěn jìn, yǒu yìdiǎn bù fāngbiàn.",
+        "text4": "是啊，不是很近，有一點不方便。",
+        "text5": "是啊不是很近有一點不方便",
+        "audio": "1097怡君：是啊，不是很近，有一點不方便。.mp3",
+        "book": "1",
+        "lesson": "6"
+    },
+    "97": {
+        "interval": [
+            7,
+            49,
+            249.4545454545455
+        ],
+        "correctScore": [
+            0.7272727272727273,
+            1,
+            0.7272727272727273
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726699527,
+            1726699957011,
+            1726702922459,
+            1726749014557.7273
+        ],
+        "text1": "這裡的學生在哪裡買東西？",
+        "text2": "Where do the students here buy things?",
+        "text3": "Zhèlǐ de xuéshēng zài nǎlǐ mǎi dōngxi?",
+        "text4": "這裡的學生在哪裡買東西？",
+        "text5": "這裏的學生在那裏買東西",
+        "audio": "1098如玉：這裡的學生在哪裡買東西？.mp3",
+        "book": "1",
+        "lesson": "6"
+    },
+    "98": {
+        "interval": [
+            7,
+            49,
+            290.2307692307692
+        ],
+        "correctScore": [
+            0.9230769230769231,
+            1,
+            0.8461538461538461
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726699539,
+            1726699971762,
+            1726702936283,
+            1726751478797.1538
+        ],
+        "text1": "在學校外面。學校裡面沒有商店。",
+        "text2": "Outside of the school. There are no shops on campus.",
+        "text3": "Zài xuéxiào wàimiàn. Xuéxiào lǐmiàn méi yǒu shāngdiàn.",
+        "text4": "在學校外面。學校裡面沒有商店。",
+        "text5": "在學校外面學校裡面沒有上減",
+        "audio": "1099怡君：在學校外面。學校裡面沒有商店。.mp3",
+        "book": "1",
+        "lesson": "6"
+    },
+    "99": {
+        "interval": [
+            7,
+            44.916666666666664,
+            290.2307692307692
+        ],
+        "correctScore": [
+            0.9166666666666666,
+            0.9166666666666666,
+            0.9230769230769231
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726699555,
+            1726699985185,
+            1726702705560,
+            1726751379761.1538
+        ],
+        "text1": "吃飯呢？學校裡面有沒有餐廳？",
+        "text2": "How about eating? Do you have restaurants on campus?",
+        "text3": "Chīfàn ne? Xuéxiào lǐmiàn yǒu méi yǒu cāntīng?",
+        "text4": "吃飯呢？學校裡面有沒有餐廳？",
+        "text5": "吃飯呢 學校裡面有沒有餐廳",
+        "audio": "1100安同：吃飯呢？學校裡面有沒有餐廳？.mp3",
+        "book": "1",
+        "lesson": "6"
+    },
+    "100": {
+        "interval": [
+            7,
+            7,
+            7,
+            7,
+            49,
+            187.0909090909091
+        ],
+        "correctScore": [
+            0.6363636363636364,
+            0,
+            0,
+            0,
+            1,
+            0.5454545454545454
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726699571,
+            1726700002992,
+            1726700451200,
+            1726701203132,
+            1726702136200,
+            1726705299381,
+            1726745307617.5454
+        ],
+        "text1": "有，餐廳在學生宿舍的一樓。",
+        "text2": "Yes. The restaurants are located on the first floor of the student dorm.",
+        "text3": "Yǒu, cāntīng zài xuéshēng sùshè de yì lóu.",
+        "text4": "有，餐廳在學生宿舍的一樓。",
+        "text5": "有曾經在學生宿舍遺漏",
+        "audio": "1101怡君：有，餐廳在學生宿舍的一樓。.mp3",
+        "book": "1",
+        "lesson": "6"
+    },
+    "101": {
+        "interval": [
+            7,
+            49,
+            343
+        ],
+        "correctScore": [
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726699587,
+            1726700016818,
+            1726702982988,
+            1726754699925
+        ],
+        "text1": "前面這棟大樓很漂亮。",
+        "text2": "That building in front of us is pretty.",
+        "text3": "Qiánmiàn zhè dòng dàlóu hěn piàoliàng.",
+        "text4": "前面這棟大樓很漂亮。",
+        "text5": "前面這棟大樓很漂亮",
+        "audio": "1102安同：前面這棟大樓很漂亮。.mp3",
+        "book": "1",
+        "lesson": "6"
+    },
+    "102": {
+        "interval": [
+            7,
+            40.833333333333336,
+            226.2847222222222,
+            1253.9945023148148
+        ],
+        "correctScore": [
+            0.875,
+            0.8333333333333334,
+            0.7916666666666666,
+            0.7916666666666666
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726699598,
+            1726700059217,
+            1726702563735,
+            1726716159495.3333,
+            1726809875814.139
+        ],
+        "text1": "這是圖書館，旁邊的那棟大樓是教室，圖書館後面有游泳池。",
+        "text2": "This is the library. The building next to to it are the classrooms. Behind the library, there is a swimming pool",
+        "text3": "Zhè shì túshūguǎn, pángbiān de nà dòng dàlóu shì jiàoshì, túshūguǎn hòumiàn yǒu yóuyǒngchí.",
+        "text4": "這是圖書館，旁邊的那棟大樓是教室，圖書館後面有游泳池。",
+        "text5": "這是圖書館旁邊的老師教室圖書館後面有游泳池",
+        "audio": "1103怡君：這是圖書館，旁邊的那棟大樓是教室，圖書館後面有游泳池。.mp3",
+        "book": "1",
+        "lesson": "6"
+    },
+    "103": {
+        "interval": [
+            7,
+            24.5,
+            85.75,
+            7,
+            7,
+            7,
+            19.6,
+            120.05000000000001
+        ],
+        "correctScore": [
+            0.875,
+            0.5,
+            0.5,
+            0,
+            0,
+            0,
+            0.4,
+            0.875
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726699777,
+            1726700207078,
+            1726701752278,
+            1726706924389,
+            1726734679199,
+            1726735110211,
+            1726735539575,
+            1726737650227,
+            1726744874593
+        ],
+        "text1": "早上九點去KTV",
+        "text2": "Going to KTV at 9 o'clock in the Morning",
+        "text3": "zǎoshang jiǔ diǎn qù KTV",
+        "text4": "早上九點去KTV",
+        "text5": "早上九點出KTV",
+        "audio": "1104早上九點去KTV.mp3",
+        "book": "1",
+        "lesson": "7"
+    },
+    "104": {
+        "interval": [
+            7,
+            42,
+            210
+        ],
+        "correctScore": [
+            0.8571428571428571,
+            0.8571428571428571,
+            0.7142857142857143
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726699789,
+            1726700216086,
+            1726702817124,
+            1726746530924
+        ],
+        "text1": "月美，妳要去哪裡？",
+        "text2": "Yuemei, where are you (f) going?",
+        "text3": "Yuèměi, nǐ yào qù nǎlǐ?",
+        "text4": "月美，妳要去哪裡？",
+        "text5": "葉美你要去哪裡",
+        "audio": "1105安同：月美，妳要去哪裡？.mp3",
+        "book": "1",
+        "lesson": "7"
+    },
+    "105": {
+        "interval": [
+            7,
+            40.47826086956522,
+            123.19470699432891
+        ],
+        "correctScore": [
+            0.9565217391304348,
+            0.8260869565217391,
+            0.43478260869565216
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726699797,
+            1726700241793,
+            1726702755825.652,
+            1726741305381.4197
+        ],
+        "text1": "去KTV唱歌。我和朋友九點二十分在大安KTV見面。",
+        "text2": "To KTV to sing. My friends and I are meeting at Da-an KTV at 9:20.",
+        "text3": "Qù KTV chànggē. Wǒ hàn péngyǒu jiǔdiǎn èrshí fēn zài Dà'ān KTV jiànmiàn.",
+        "text4": "去KTV唱歌。我和朋友九點二十分在大安KTV見面。",
+        "text5": "祝各位成功 武漢豐業9點20分在大安KTV見面",
+        "audio": "1106月美：去KTV唱歌。我和朋友九點二十分在大安KTV見面。.mp3",
+        "book": "1",
+        "lesson": "7"
+    },
+    "106": {
+        "interval": [
+            7,
+            44.54545454545455,
+            255.1239669421488
+        ],
+        "correctScore": [
+            0.9090909090909091,
+            0.9090909090909091,
+            0.8181818181818182
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726699826,
+            1726700258069,
+            1726703023522.2727,
+            1726749253339.0166
+        ],
+        "text1": "早上九點去KTV？為什麼？",
+        "text2": "Going to KTV at 9:00 in the morning? Why?",
+        "text3": "Zǎoshàng jiǔdiǎn qù KTV? Wèishénme?",
+        "text4": "早上九點去KTV？為什麼？",
+        "text5": "早上九點出kTV為什麼",
+        "audio": "1107安同：早上九點去KTV？為什麼？.mp3",
+        "book": "1",
+        "lesson": "7"
+    },
+    "107": {
+        "interval": [
+            7,
+            39.2,
+            222.13333333333333
+        ],
+        "correctScore": [
+            0.9,
+            0.8,
+            0.8095238095238095
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726699840,
+            1726700296685,
+            1726702742425,
+            1726747209273
+        ],
+        "text1": "從早上七點到中午十二點，最便宜。要不要一起去？",
+        "text2": "Because from 7:00 in the morning to 12 noon, it is the least expensive. Do you want to go along?",
+        "text3": "Cóng zǎoshàng qīdiǎn dào zhōngwǔ shí'èrdiǎn, zuì piányí. Yào bú yào yìqǐ qù?",
+        "text4": "從早上七點到中午十二點，最便宜。要不要一起去？",
+        "text5": "從早上七點到十五二十二點最便宜要不要一起住",
+        "audio": "1108月美：從早上七點到中午十二點，最便宜。要不要一起去？.mp3",
+        "book": "1",
+        "lesson": "7"
+    },
+    "108": {
+        "interval": [
+            7,
+            45.23076923076923,
+            292.2603550295858
+        ],
+        "correctScore": [
+            0.9230769230769231,
+            0.9230769230769231,
+            0.9230769230769231
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726700051,
+            1726700482127,
+            1726703522881.1538,
+            1726751515886.3018
+        ],
+        "text1": "我想去，可是我得去銀行。下次吧！",
+        "text2": "I would love to, but I have to go to the bank. Maybe next time.",
+        "text3": "Wǒ xiǎng qù, kěshì wǒ děi qù yínháng. Xià cì ba!",
+        "text4": "我想去，可是我得去銀行。下次吧！",
+        "text5": "我想吃可是我得去銀行下次吧",
+        "audio": "1109安同：我想去，可是我得去銀行。下次吧！.mp3",
+        "book": "1",
+        "lesson": "7"
+    },
+    "109": {
+        "interval": [
+            7,
+            49,
+            343
+        ],
+        "correctScore": [
+            1,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726700122,
+            1726700618533,
+            1726703782620,
+            1726754715201
+        ],
+        "text1": "好啊，下次你一定要來，我想聽你唱歌。",
+        "text2": "Okay. Next time, you have to come. I would like to hear you sing.",
+        "text3": "Hǎo a, xià cì nǐ yídìng yào lái. Wǒ xiǎng tīng nǐ chànggē.",
+        "text4": "好啊，下次你一定要來，我想聽你唱歌。",
+        "text5": "好啊下次你一定要來我想聽你唱歌",
+        "audio": "1110月美：好啊，下次你一定要來，我想聽你唱歌。.mp3",
+        "book": "1",
+        "lesson": "7"
+    },
+    "110": {
+        "interval": [
+            7,
+            45.733333333333334,
+            300.125
+        ],
+        "correctScore": [
+            1,
+            0.9333333333333333,
+            0.9375
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726702594,
+            1726703029235,
+            1726736541780,
+            1726754683457
+        ],
+        "text1": "沒問題。對了，什麼時候有空一起吃飯？",
+        "text2": "No problem. By the way, when do you have time to eat with me?",
+        "text3": "Méi wèntí. Duìle, shénme shíhòu yǒu kòng yìqǐ chīfàn?",
+        "text4": "沒問題。對了，什麼時候有空一起吃飯？",
+        "text5": "沒問題對了什麼時候有空一起吃飯呢",
+        "audio": "1111安同：沒問題。對了，什麼時候有空一起吃飯？.mp3",
+        "book": "1",
+        "lesson": "7"
+    },
+    "111": {
+        "interval": [
+            7,
+            15.07692307692308,
+            105.53846153846156
+        ],
+        "correctScore": [
+            0.7142857142857143,
+            0.3076923076923077,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726702612,
+            1726703040079,
+            1726734723891.3845,
+            1726741075970.6924
+        ],
+        "text1": "後天我有空，你呢？",
+        "text2": "I'm free the day after tomorrow. Yourself?",
+        "text3": "Hòutiān wǒ yǒu kòng, nǐ ne?",
+        "text4": "後天我有空，你呢？",
+        "text5": "後天我有空你呢",
+        "audio": "1112月美：後天我有空，你呢？.mp3",
+        "book": "1",
+        "lesson": "7"
+    },
+    "112": {
+        "interval": [
+            7,
+            45.23076923076923,
+            316.61538461538464
+        ],
+        "correctScore": [
+            0.9230769230769231,
+            0.9230769230769231,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726702623,
+            1726703054924,
+            1726736551673.1538,
+            1726755647312.077
+        ],
+        "text1": "我也有空，後天晚上七點怎麼樣？",
+        "text2": "I'm also free. How about the day after tomorrow at 7:00 in the evening?",
+        "text3": "Wǒ yě yǒu kòng, hòutiān wǎnshàng qīdiǎn zěnmeyàng?",
+        "text4": "我也有空，後天晚上七點怎麼樣？",
+        "text5": "我也有空後天晚上七點怎麼樣",
+        "audio": "1113安同：我也有空，後天晚上七點怎麼樣？.mp3",
+        "book": "1",
+        "lesson": "7"
+    },
+    "113": {
+        "interval": [
+            7,
+            7,
+            49,
+            343
+        ],
+        "correctScore": [
+            1,
+            0.25,
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726702657,
+            1726703083707,
+            1726734271547,
+            1726737226742,
+            1726757839981
+        ],
+        "text1": "好啊！再見。",
+        "text2": "Great. See you.",
+        "text3": "Hǎo a! Zàijiàn.",
+        "text4": "好啊！再見。",
+        "text5": "好啊再見",
+        "audio": "1114月美：好啊！再見。.mp3",
+        "book": "1",
+        "lesson": "7"
+    },
+    "114": {
+        "interval": [
+            7,
+            28,
+            112
+        ],
+        "correctScore": [
+            0.5714285714285714,
+            0.5714285714285714,
+            0.5714285714285714
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726702668,
+            1726703096202,
+            1726735540918,
+            1726743343652
+        ],
+        "text1": "如玉，妳在吃飯啊？",
+        "text2": "(I see) you (female) are eating, Ruyu?",
+        "text3": "Rúyù, nǐ zài chīfàn a?",
+        "text4": "如玉，妳在吃飯啊？",
+        "text5": "如又你在吃飯呢",
+        "audio": "1115安同：如玉，妳在吃飯啊？.mp3",
+        "book": "1",
+        "lesson": "7"
+    },
+    "115": {
+        "interval": [
+            7,
+            44.916666666666664
+        ],
+        "correctScore": [
+            1,
+            0.9166666666666666
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726737222,
+            1726737660833,
+            1726740588889
+        ],
+        "text1": "是，吃午餐，等一下要上課。你呢？",
+        "text2": "Yeah, I'm eating lunch. I have class in a bit. How about you?",
+        "text3": "Shì, chī wǔcān, děng yíxià yào shàngkè. Nǐ ne?",
+        "text4": "是，吃午餐，等一下要上課。你呢？",
+        "text5": "吃午餐等一下要上課你呢",
+        "audio": "1116如玉：是，吃午餐，等一下要上課。你呢？.mp3",
+        "book": "1",
+        "lesson": "7"
+    },
+    "116": {
+        "interval": [
+            7,
+            44.73913043478261
+        ],
+        "correctScore": [
+            0.9130434782608695,
+            0.9130434782608695
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726737261,
+            1726737708930,
+            1726740622276.8262
+        ],
+        "text1": "我剛下課。對了，下午四點半學校有籃球比賽。妳想去看嗎？",
+        "text2": "I just got out of class. By the way, there is a basketball game at school at 4:30 this afternoon. Would you (f) like to go watch?",
+        "text3": "Wǒ gāng xiàkè. Duìle, xiàwǔ sìdiǎnbàn xuéxiào yǒu lánqiú bǐsài. Nǐ xiǎng qù kàn ma?",
+        "text4": "我剛下課。對了，下午四點半學校有籃球比賽。妳想去看嗎？",
+        "text5": "我剛下課對了下午四點半學校有�球比賽你想去看嗎",
+        "audio": "1117安同：我剛下課。對了，下午四點半學校有籃球比賽。妳想去看嗎？.mp3",
+        "book": "1",
+        "lesson": "7"
+    },
+    "117": {
+        "interval": [
+            7,
+            36.75
+        ],
+        "correctScore": [
+            0.5,
+            0.75
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726737306,
+            1726737735335,
+            1726740169055
+        ],
+        "text1": "想啊。比賽幾點結束？",
+        "text2": "Yes, what time does the game end?",
+        "text3": "Xiǎng a. Bǐsài jǐdiǎn jiéshù?",
+        "text4": "想啊。比賽幾點結束？",
+        "text5": "現在比賽幾點結束",
+        "audio": "1118如玉：想啊。比賽幾點結束？.mp3",
+        "book": "1",
+        "lesson": "7"
+    },
+    "118": {
+        "interval": [
+            7,
+            43.55555555555555
+        ],
+        "correctScore": [
+            0.8888888888888888,
+            0.8888888888888888
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726737320,
+            1726737749458,
+            1726740831955.3333
+        ],
+        "text1": "六點半。妳晚上有事嗎？",
+        "text2": "6:30. Do you (f) have something to do this evening?",
+        "text3": "Liùdiǎnbàn. Nǐ wǎnshàng yǒu shì ma?",
+        "text4": "六點半。妳晚上有事嗎？",
+        "text5": "六點半你晚上有事嗎",
+        "audio": "1119安同：六點半。妳晚上有事嗎？.mp3",
+        "book": "1",
+        "lesson": "7"
+    },
+    "119": {
+        "interval": [
+            7,
+            49
+        ],
+        "correctScore": [
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726737332,
+            1726737775595,
+            1726741191260
+        ],
+        "text1": "我最近很忙，每天晚上都上書法課。",
+        "text2": "I have been busy lately. I go to calligraphy class every evening.",
+        "text3": "Wǒ zuìjìn hěn máng, měi tiān wǎnshàng dōu shàng shūfǎ kè.",
+        "text4": "我最近很忙，每天晚上都上書法課。",
+        "text5": "我最近很忙每天晚上都上書法課",
+        "audio": "1120如玉：我最近很忙，每天晚上都上書法課。.mp3",
+        "book": "1",
+        "lesson": "7"
+    },
+    "120": {
+        "interval": [
+            7,
+            29.400000000000002
+        ],
+        "correctScore": [
+            0,
+            0.6
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726737359,
+            1726737786357,
+            1726740030955
+        ],
+        "text1": "學得怎麼樣？",
+        "text2": "How is that (studying) going?",
+        "text3": "Xué de zěnmeyàng?",
+        "text4": "學得怎麼樣？",
+        "text5": "是的怎麼樣",
+        "audio": "1121安同：學得怎麼樣？.mp3",
+        "book": "1",
+        "lesson": "7"
+    },
+    "121": {
+        "interval": [
+            7,
+            46.27777777777777
+        ],
+        "correctScore": [
+            0.9444444444444444,
+            0.9444444444444444
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726737367,
+            1726737815722,
+            1726741091637.6667
+        ],
+        "text1": "剛開始學，字寫得不好，可是我覺得很有意思。",
+        "text2": "I just started studying. I'm not writing characters well, but I think it is interesting.",
+        "text3": "Gāng kāishǐ xué, zì xiě de bù hǎo, kěshì wǒ juéde hěn yǒu yìsi.",
+        "text4": "剛開始學，字寫得不好，可是我覺得很有意思。",
+        "text5": "剛開始學字學得不好可是我覺得很有意思",
+        "audio": "1122如玉：剛開始學，字寫得不好，可是我覺得很有意思。.mp3",
+        "book": "1",
+        "lesson": "7"
+    },
+    "122": {
+        "interval": [
+            7,
+            49
+        ],
+        "correctScore": [
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726737402,
+            1726737927755,
+            1726741271060
+        ],
+        "text1": "我有空可以去看看嗎？",
+        "text2": "Can I go check it out sometime when I have free time?",
+        "text3": "Wǒ yǒu kòng kěyǐ qù kànkàn ma?",
+        "text4": "我有空可以去看看嗎？",
+        "text5": "我有空可以去看看嗎",
+        "audio": "1123安同：我有空可以去看看嗎？.mp3",
+        "book": "1",
+        "lesson": "7"
+    },
+    "123": {
+        "interval": [
+            7,
+            49
+        ],
+        "correctScore": [
+            0.5,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726737513,
+            1726737945683,
+            1726741280984
+        ],
+        "text1": "我得問問老師。",
+        "text2": "I have to ask the instructor.",
+        "text3": "Wǒ děi wènwèn lǎoshī.",
+        "text4": "我得問問老師。",
+        "text5": "我得問問老師",
+        "audio": "1124如玉：我得問問老師。.mp3",
+        "book": "1",
+        "lesson": "7"
+    },
+    "124": {
+        "interval": [
+            7,
+            40.833333333333336
+        ],
+        "correctScore": [
+            0.8333333333333334,
+            0.8333333333333334
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726737527,
+            1726737955816,
+            1726740803282
+        ],
+        "text1": "坐火車去臺南",
+        "text2": "Taking a Train to Tainan",
+        "text3": "zuò huǒchē qù táinán",
+        "text4": "坐火車去臺南",
+        "text5": "坐火車去台南",
+        "audio": "1125坐火車去臺南.mp3",
+        "book": "1",
+        "lesson": "8"
+    },
+    "125": {
+        "interval": [
+            7,
+            49
+        ],
+        "correctScore": [
+            0.9230769230769231,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726737538,
+            1726737994817,
+            1726741308636
+        ],
+        "text1": "這個週末，我想跟朋友去臺南玩。",
+        "text2": "I want to go to Tainan with friends this weekend.",
+        "text3": "Zhè ge zhōumò, wǒ xiǎng gēn péngyǒu qù Táinán wán.",
+        "text4": "這個週末，我想跟朋友去臺南玩。",
+        "text5": "這個週末我想跟朋友去臺南玩",
+        "audio": "1126如玉：這個週末，我想跟朋友去臺南玩。.mp3",
+        "book": "1",
+        "lesson": "8"
+    },
+    "126": {
+        "interval": [
+            7,
+            32.666666666666664
+        ],
+        "correctScore": [
+            0.3333333333333333,
+            0.6666666666666666
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726737581,
+            1726738008543,
+            1726740337343
+        ],
+        "text1": "怎麼去？",
+        "text2": "How are you going?",
+        "text3": "Zěnme qù?",
+        "text4": "怎麼去？",
+        "text5": "這麼去",
+        "audio": "1127明華：怎麼去？.mp3",
+        "book": "1",
+        "lesson": "8"
+    },
+    "127": {
+        "interval": [
+            7,
+            49
+        ],
+        "correctScore": [
+            1,
+            1
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726737589,
+            1726738018570,
+            1726741331357
+        ],
+        "text1": "我想坐火車去。",
+        "text2": "I would like to go by train.",
+        "text3": "Wǒ xiǎng zuò huǒchē qù.",
+        "text4": "我想坐火車去。",
+        "text5": "我想坐火車去",
+        "audio": "1128如玉：我想坐火車去。.mp3",
+        "book": "1",
+        "lesson": "8"
+    },
+    "128": {
+        "interval": [
+            7,
+            43.23529411764706
+        ],
+        "correctScore": [
+            0.8235294117647058,
+            0.8823529411764706
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726737600,
+            1726738070711,
+            1726741011897.647
+        ],
+        "text1": "火車太慢了，要四個多鐘頭，坐高鐵比較快。",
+        "text2": "The train is to slow. It takes more than 4 hours. Taking the High Speed Rail is faster.",
+        "text3": "Huǒchē tài màn le, yào sì ge duō zhōngtóu, zuò gāotiě bǐjiào kuài.",
+        "text4": "火車太慢了，要四個多鐘頭，坐高鐵比較快。",
+        "text5": "火車太慢了要四個多鐘走速高鐵比較快",
+        "audio": "1129明華：火車太慢了，要四個多鐘頭，坐高鐵比較快。.mp3",
+        "book": "1",
+        "lesson": "8"
+    },
+    "129": {
+        "interval": [
+            7
+        ],
+        "correctScore": [
+            0.9090909090909091
+        ],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726738435,
+            1726738874864
+        ],
+        "text1": "可是聽說高鐵車票非常貴。",
+        "text2": "But I've heard that the High Speed Rail tickets are very expensive.",
+        "text3": "Kěshì tīngshuō gāotiě chēpiào fēicháng guì.",
+        "text4": "可是聽說高鐵車票非常貴。",
+        "text5": "可是聽說高鐵支票非常貴",
+        "audio": "1130如玉：可是聽說高鐵車票非常貴。.mp3",
+        "book": "1",
+        "lesson": "8"
+    },
+    "130": {
+        "interval": [],
+        "correctScore": [],
+        "isLearned": false,
+        "correctCount": 0,
+        "nextReviewTimestamp": [
+            1726738464
+        ],
+        "text1": "高鐵車票有一點貴，但是坐高鐵又快又舒服。",
+        "text2": "High Speed Rail Tickets are a bit expensive, but the High Speed Rail is both fast and comfortable.",
+        "text3": "Gāotiě chēpiào yǒu yìdiǎn guì, dànshì zuò gāotiě yòu kuài yòu shūfú.",
+        "text4": "高鐵車票有一點貴，但是坐高鐵又快又舒服。",
+        "text5": "",
+        "audio": "1131明華：高鐵車票有一點貴，但是坐高鐵又快又舒服。.mp3",
+        "book": "1",
+        "lesson": "8"
+    }
+}

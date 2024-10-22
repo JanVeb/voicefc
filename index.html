@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Voice Flashcards</title>
+  </head>
+  <body>
+    <div id="app"></div>
+    <div id="app">
+      <div id="header">
+        <div id="card-counters">
+        <p id="expired-cards">0</p>
+        <p>/</p>
+        <p id="active-cards">0</p>
+      </div>
+        <button id="settings-button">⚙️</button>
+      </div>
+
+         <!-- Settings window -->
+    <div id="settings-window" class="settings hidden">
+      <div class="settings-content">
+        <!-- <span id="close-settings" class="close">&times;</span> -->
+        <h2>Settings</h2>
+        <div class="upload-container">
+          <p>Upload Spaced Repetition Statistics to Cloud: </p>
+          <button id="settings-save-spaced">💾</button>
+        </div>
+
+        <div class="download-container">
+          <p>Download Spaced Repetition Statistics from Cloud: </p>
+          <button id="settings-download-spaced">⬇️</button>
+        </div>
+      </div>
+    </div>
+
+        <button id="record-button"><i class="fas fa-microphone"></i> <!-- Play icon --></button>
+        <button class="audio-button"><i class="fas fa-play"></i></button>
+        <button class="switch-card-text"><i class="fas fa-recycle"></i></button>
+        <div class="swipe-indicator">Swipe left for next card</div>
+        <!-- <button id="stop">Stop Recording</button> -->
+        <!-- <button id="connectButton">Connect to Bluetooth Device</button> -->
+         <!-- <div id="xp-lvl"> -->
+<div id="xp"></div>
+<div id="lvl"></div>
+<!-- </div> -->
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

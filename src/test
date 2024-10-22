@@ -1,0 +1,19 @@
+	
+project_info	
+project_number	                "473793975081"
+project_id	                    "voiceflashcards-5607a"
+storage_bucket	                "voiceflashcards-5607a.appspot.com"
+client	            
+0	            
+client_info	            
+mobilesdk_app_id	            "1:473793975081:android:8c3738cbabad018c4ddd38"
+android_client_info	            
+package_name	                "com.veble.voicefc"
+oauth_client	[]          
+api_key	            
+0	            
+current_key	                    "AIzaSyCEa97wCrsFJa3L45HAIIgrY_ZEkRssepM"
+services	
+appinvite_service	
+other_platform_oauth_client	[]
+configuration_version	"1"
